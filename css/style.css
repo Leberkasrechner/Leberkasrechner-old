@@ -18,11 +18,22 @@ body {
 }
 
 #meineKarte {
-    visibility: hidden;
 	margin-left: auto;
 	margin-right:auto;
     max-height: 500px;
     max-width: 1000px;
+}
+.map-hidden{
+    visibility: hidden;
+}
+.map-visible{
+    visibility: hidden;
+    animation: map-animation 0.8s ease-in forwards;
+}
+@keyframes map-animation {
+    to{
+        visibility: visible;
+    }
 }
 html,body {
     position: absoulte;
