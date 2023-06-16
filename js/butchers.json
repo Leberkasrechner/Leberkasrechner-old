@@ -120,12 +120,11 @@
   {
     "type": "node",
     "id": 199030093,
-    "lat": 49.7059312,
-    "lon": 9.4013138,
+    "lat": 49.7057086,
+    "lon": 9.4013547,
     "tags": {
-      "created_by": "JOSM",
       "name": "Ulrich",
-      "opening_hours": "Mo,Tu,Th 07:30-13:30,15:00-18:00; We,Sa 07:30-12:30; Fr 07:30-18:00",
+      "opening_hours": "Mo,Tu,Th 07:30-13:30,15:00-18:00; We 07:30-12:30; Fr 07:30-18:00; Sa 07:00-12:30; PH off",
       "shop": "butcher"
     }
   },
@@ -562,6 +561,7 @@
     "lat": 49.8968818,
     "lon": 9.2310157,
     "tags": {
+      "check_date": "2023-05-23",
       "name": "Berberich",
       "shop": "butcher",
       "wheelchair": "no",
@@ -699,6 +699,7 @@
       "addr:housenumber": "4",
       "addr:postcode": "80937",
       "addr:street": "Sudetendeutschestraße",
+      "check_date": "2023-06-03",
       "name": "Metzgerei Kollmer",
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:30-12:00",
       "shop": "butcher",
@@ -708,12 +709,18 @@
   {
     "type": "node",
     "id": 277323888,
-    "lat": 48.0730531,
-    "lon": 10.8146141,
+    "lat": 48.0730979,
+    "lon": 10.8146094,
     "tags": {
+      "addr:city": "Igling",
+      "addr:housenumber": "2",
+      "addr:postcode": "86859",
+      "addr:street": "Unteriglinger Straße",
       "name": "Metzgerei Gayer Partyservice",
+      "phone": "+49 8248 559",
       "shop": "butcher",
       "source": "survey",
+      "website": "http://www.metzgerei-gayer.de",
       "wheelchair": "no"
     }
   },
@@ -1111,12 +1118,16 @@
     "lon": 9.863028,
     "tags": {
       "addr:city": "Margetshöchheim",
+      "addr:country": "DE",
       "addr:housenumber": "5",
       "addr:postcode": "97276",
       "addr:street": "Falkenstraße",
+      "email": "metzgerei-flach@gmx.de",
+      "fax": "+49 931 467091",
       "name": "Metzgerei Flach",
       "phone": "+49 931 461079",
       "shop": "butcher",
+      "website": "https://www.metzgerei-flach.de/",
       "wheelchair": "yes"
     }
   },
@@ -1467,6 +1478,7 @@
     "lat": 48.1529603,
     "lon": 11.5086212,
     "tags": {
+      "check_date": "2023-06-14",
       "drink:coffee": "yes",
       "drink:coffee:automatic": "yes",
       "name": "Burzlaff",
@@ -2335,18 +2347,6 @@
   },
   {
     "type": "node",
-    "id": 331460754,
-    "lat": 48.3482287,
-    "lon": 10.5868989,
-    "tags": {
-      "name": "Metzgerei Leberl",
-      "shop": "butcher",
-      "toilets:wheelchair": "no",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 331877656,
     "lat": 50.1635666,
     "lon": 11.1154831,
@@ -3122,7 +3122,7 @@
     "tags": {
       "addr:housenumber": "336",
       "addr:street": "Altstadt",
-      "check_date": "2023-01-24",
+      "check_date": "2023-06-11",
       "name": "Metzgerei Brandl",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -3139,7 +3139,7 @@
       "addr:housenumber": "71",
       "addr:postcode": "84028",
       "addr:street": "Altstadt",
-      "check_date": "2022-11-18",
+      "check_date": "2023-06-11",
       "name": "Metzgerei Stegfellner",
       "phone": "+49 871 28015",
       "shop": "butcher",
@@ -3155,7 +3155,7 @@
     "tags": {
       "addr:housenumber": "67",
       "addr:street": "Altstadt",
-      "check_date": "2022-11-18",
+      "check_date": "2023-06-11",
       "name": "Metzgerei Stadler",
       "shop": "butcher",
       "wheelchair": "no"
@@ -3503,7 +3503,7 @@
       "addr:postcode": "86830",
       "addr:street": "Fuggerstraße",
       "name": "Metzgerei Naumann",
-      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-12:30",
+      "opening_hours": "Mo 07:30-13:30; Tu-Fr 07:30-18:00; Sa 07:30-12:30",
       "phone": "+49 8232 78190",
       "shop": "butcher",
       "website": "http://www.metzgerei-naumann.de",
@@ -3825,6 +3825,7 @@
     "lat": 49.8199764,
     "lon": 9.2555601,
     "tags": {
+      "check_date": "2023-05-27",
       "name": "Heeg",
       "shop": "butcher"
     }
@@ -4252,6 +4253,7 @@
     "lat": 49.893659,
     "lon": 10.8861094,
     "tags": {
+      "check_date": "2023-05-27",
       "contact:email": "info@hornung-metzgerei.de",
       "contact:fax": "+49 951 2083371",
       "contact:phone": "+49 951 23662",
@@ -4466,9 +4468,13 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-06-10",
       "check_date:opening_hours": "2023-01-07",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-14:00",
+      "payment:cash": "yes",
+      "payment:girocard": "yes",
+      "payment:sodexo": "yes",
       "shop": "butcher",
       "wheelchair": "limited"
     }
@@ -4974,16 +4980,15 @@
   {
     "type": "node",
     "id": 496012655,
-    "lat": 48.9589316,
-    "lon": 10.9063643,
+    "lat": 48.9590456,
+    "lon": 10.9063957,
     "tags": {
-      "addr:city": "Treuchtlingen",
-      "addr:country": "DE",
-      "addr:housenumber": "43",
-      "addr:postcode": "91757",
-      "addr:street": "Wettelsheimer Straße",
+      "email": "info@metzgerei-ziegler.de",
       "name": "Ziegler",
-      "shop": "butcher"
+      "opening_hours": "We-Fr 07:00-12:30,14:00-18:00; Sa 07:00-12:00; PH off",
+      "phone": "+49 9142 5682",
+      "shop": "butcher",
+      "website": "https://metzgerei-ziegler.de/"
     }
   },
   {
@@ -5744,6 +5749,7 @@
       "addr:street": "Äußere Bucher Straße",
       "name": "Kleinlein",
       "shop": "butcher",
+      "website": "https://www.metzgerei-kleinlein.de/",
       "wheelchair": "limited"
     }
   },
@@ -6392,6 +6398,7 @@
     "lat": 48.135698,
     "lon": 11.5765004,
     "tags": {
+      "check_date:opening_hours": "2023-05-26",
       "name": "Eisenreich",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
       "ref": "Abteilung V, Laden 16",
@@ -6489,9 +6496,10 @@
       "addr:housenumber": "2",
       "addr:postcode": "80331",
       "addr:street": "Viktualienmarkt",
-      "check_date:opening_hours": "2022-05-19",
+      "check_date:opening_hours": "2023-05-26",
       "name": "Marktmetzger",
       "opening_hours": "Mo-Sa 07:00-19:30",
+      "opening_hours:signed": "no",
       "ref": "Abteilung VII; Ladennummer 5",
       "shop": "butcher",
       "wheelchair": "limited"
@@ -6759,6 +6767,7 @@
       "addr:postcode": "86391",
       "addr:street": "Brunnenplatz",
       "addr:suburb": "Leitershofen",
+      "check_date:opening_hours": "2023-06-10",
       "contact:facebook": "https://www.facebook.com/MetzgereiSchmid",
       "email": "mail@schmid-partyservice.de",
       "name": "Metzgerei Schmid",
@@ -7220,19 +7229,6 @@
   },
   {
     "type": "node",
-    "id": 702354218,
-    "lat": 49.9034653,
-    "lon": 10.9082406,
-    "tags": {
-      "check_date:opening_hours": "2021-11-18",
-      "name": "Bühler",
-      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-13:00; Su,PH off",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 703480772,
     "lat": 48.3677883,
     "lon": 10.8959589,
@@ -7324,10 +7320,8 @@
       "addr:housenumber": "4",
       "addr:postcode": "80637",
       "addr:street": "Franz-Marc-Straße",
-      "email": "hofladen-borstei@outlook.de",
-      "name": "Hofladen Ostler",
-      "opening_hours": "Tu 08:30-18:00; We-Th 08:30-14:00; Fr 08:30-18:00; Sa 08:30-13:00; PH off",
-      "owner": "Georg Ostler",
+      "name": "Hofladen Neuner",
+      "opening_hours": "Mo-Fr 08:30-14:00; Sa 09:00-13:00; PH off",
       "phone": "+49 89 46132224",
       "shop": "butcher",
       "wheelchair": "limited"
@@ -7646,6 +7640,7 @@
     "lat": 49.9561313,
     "lon": 9.1632888,
     "tags": {
+      "check_date": "2023-05-24",
       "name": "Metzgerei Sandt",
       "shop": "butcher",
       "wheelchair": "no"
@@ -7706,22 +7701,9 @@
   },
   {
     "type": "node",
-    "id": 789377746,
-    "lat": 49.8903825,
-    "lon": 10.9054312,
-    "tags": {
-      "check_date:opening_hours": "2021-09-14",
-      "name": "Goller",
-      "opening_hours": "Mo-Fr 09:30-16:00; Sa 08:00-12:00",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 790030190,
-    "lat": 48.1612189,
-    "lon": 11.5237656,
+    "lat": 48.1612565,
+    "lon": 11.5237354,
     "tags": {
       "addr:city": "München",
       "addr:country": "DE",
@@ -7733,6 +7715,7 @@
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
       "name": "Vinzenzmurr",
+      "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-13:00",
       "shop": "butcher",
       "wheelchair": "limited"
     }
@@ -8184,8 +8167,8 @@
   {
     "type": "node",
     "id": 871032392,
-    "lat": 49.6405407,
-    "lon": 11.0718408,
+    "lat": 49.6405561,
+    "lon": 11.071776,
     "tags": {
       "name": "Zametzer",
       "opening_hours": "Mo,We-Fr 07:30-12:00,13:30-18:00; Sa 07:00-13:00",
@@ -8378,10 +8361,13 @@
     "tags": {
       "addr:city": "Segnitz",
       "addr:housenumber": "22",
+      "addr:postcode": "97340",
       "addr:street": "Hans-Kesenbrod-Straße",
       "name": "Gernets Hofladen",
-      "phone": "+4993329996",
-      "shop": "butcher"
+      "opening_hours:url": "https://www.gernets-hofladen.de/%C3%B6ffnungszeiten/",
+      "phone": "+49 9332 9996",
+      "shop": "butcher",
+      "website": "https://www.gernets-hofladen.de/"
     }
   },
   {
@@ -10172,6 +10158,7 @@
     "lat": 49.9607474,
     "lon": 9.1760468,
     "tags": {
+      "check_date": "2023-05-28",
       "name": "Verkaufsstätte Kraus",
       "opening_hours": "Mo-Fr 06:00-17:30; Sa 06:00-12:00",
       "shop": "butcher",
@@ -10667,6 +10654,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date:opening_hours": "2023-06-15",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:00-18:30; Sa 07:30-13:30",
       "shop": "butcher",
@@ -10713,6 +10701,7 @@
       "addr:housenumber": "34",
       "addr:postcode": "63820",
       "addr:street": "Hauptstraße",
+      "check_date": "2023-05-19",
       "name": "Bernard",
       "opening_hours": "Mo-Fr 07:00-13:00, Mo,Tu,Th,Fr 14:00-18:00, Sa 07:00-12:00; PH off",
       "shop": "butcher",
@@ -10902,20 +10891,6 @@
   },
   {
     "type": "node",
-    "id": 1307087861,
-    "lat": 47.6796564,
-    "lon": 11.574317,
-    "tags": {
-      "addr:housenumber": "3",
-      "addr:postcode": "83661",
-      "addr:street": "Bahnhofplatz",
-      "name": "Metzgerei Holzner",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 1307241761,
     "lat": 50.2913673,
     "lon": 11.453146,
@@ -11074,10 +11049,10 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
-      "check_date": "2023-01-30",
+      "check_date": "2023-05-25",
       "check_date:opening_hours": "2022-08-09",
       "name": "Vinzenzmurr",
-      "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:00-13:00",
+      "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-13:00",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -11164,20 +11139,6 @@
     "tags": {
       "name": "Altmann",
       "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 1347680560,
-    "lat": 48.1519282,
-    "lon": 11.853995,
-    "tags": {
-      "addr:housenumber": "21",
-      "addr:postcode": "85646",
-      "addr:street": "Högerstraße",
-      "name": "Metzgerei Stefan Elst",
-      "shop": "butcher",
-      "wheelchair": "yes"
     }
   },
   {
@@ -12039,7 +12000,7 @@
       "addr:housenumber": "262",
       "addr:postcode": "84028",
       "addr:street": "Altstadt",
-      "check_date": "2022-11-18",
+      "check_date": "2023-06-11",
       "name": "Metzgerei Georg Hofmair",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-13:30",
       "phone": "+49871 22870",
@@ -12362,7 +12323,9 @@
       "addr:housenumber": "3",
       "addr:postcode": "90518",
       "addr:street": "Oberer Markt",
+      "check_date:opening_hours": "2023-06-14",
       "name": "Nießlbeck",
+      "opening_hours:signed": "no",
       "shop": "butcher",
       "wheelchair": "no",
       "wheelchair:description:de": "Stufen vor dem Eingang"
@@ -12843,7 +12806,7 @@
     "lat": 48.1002924,
     "lon": 11.6301893,
     "tags": {
-      "check_date:opening_hours": "2022-10-28",
+      "check_date:opening_hours": "2023-06-08",
       "name": "Metzgerei Sedlmeir",
       "opening_hours": "Mo 07:00-13:00; Tu-Fr 07:00-13:00,14:30-18:00; Sa 07:00-12:30",
       "shop": "butcher",
@@ -13070,17 +13033,6 @@
       "description": "Metzger - Bistro & Partyservice",
       "name": "Metzgerei Kumpf",
       "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 1538718202,
-    "lat": 49.4341057,
-    "lon": 11.0758698,
-    "tags": {
-      "name": "Teichner",
-      "shop": "butcher",
-      "wheelchair": "no"
     }
   },
   {
@@ -13384,16 +13336,6 @@
   },
   {
     "type": "node",
-    "id": 1585065940,
-    "lat": 47.7044904,
-    "lon": 10.3226328,
-    "tags": {
-      "name": "Schön",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 1586233960,
     "lat": 48.038956,
     "lon": 12.5689754,
@@ -13558,6 +13500,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-06-04",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-15:00",
       "shop": "butcher",
@@ -13868,12 +13811,13 @@
   {
     "type": "node",
     "id": 1648255754,
-    "lat": 48.1861551,
-    "lon": 11.3871153,
+    "lat": 48.1861298,
+    "lon": 11.3870789,
     "tags": {
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "level": "0",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Sa 09:00-20:00",
       "shop": "butcher",
@@ -13981,6 +13925,7 @@
     "lon": 10.3089685,
     "tags": {
       "name": "Weber",
+      "opening_hours": "Mo 07:00-13:00; Tu-Fr 07:00-13:30,14:30-18:00; Sa 07:00-12:30",
       "shop": "butcher"
     }
   },
@@ -14410,8 +14355,8 @@
   {
     "type": "node",
     "id": 1717077923,
-    "lat": 50.3013897,
-    "lon": 10.0189534,
+    "lat": 50.3013546,
+    "lon": 10.0189829,
     "tags": {
       "addr:city": "Burkardroth",
       "addr:housenumber": "33",
@@ -14447,8 +14392,8 @@
   {
     "type": "node",
     "id": 1717736476,
-    "lat": 49.804858,
-    "lon": 10.2297736,
+    "lat": 49.8048659,
+    "lon": 10.2297741,
     "tags": {
       "description": "Dienstags kein Fleisch",
       "name": "Klostermetzgerei Vier Türme",
@@ -14752,6 +14697,7 @@
       "addr:housenumber": "18",
       "addr:postcode": "91541",
       "addr:street": "Obere Schmiedgasse",
+      "diet:halal": "no",
       "name": "Metzgerei Trumpp",
       "opening_hours": "Mo-Fr 09:00-17:00; Sa 08:00-13:00",
       "shop": "butcher",
@@ -14897,6 +14843,7 @@
     "lon": 11.3556036,
     "tags": {
       "name": "Hoffmann",
+      "opening_hours": "Mo,Tu,Th,Fr 07:30-18:00; We 07:30-15:00; Sa 07:00-12:30",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -15123,7 +15070,9 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-06-11",
       "name": "Vinzenzmurr",
+      "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -15135,16 +15084,6 @@
     "lon": 11.2650393,
     "tags": {
       "name": "Metzgerei Höring",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 1801481144,
-    "lat": 50.0098202,
-    "lon": 10.5942049,
-    "tags": {
-      "name": "Metzgerei Hertlein",
       "shop": "butcher"
     }
   },
@@ -15400,6 +15339,7 @@
     "lat": 47.6036809,
     "lon": 12.9858544,
     "tags": {
+      "check_date": "2023-05-27",
       "level": "0",
       "name": "Fritz Kastner",
       "opening_hours": "Mo-Fr 07:30-12:30,14:30-18:00; Sa 07:30-12:30",
@@ -15489,8 +15429,7 @@
       "addr:postcode": "81671",
       "addr:street": "Rosenheimer Straße",
       "name": "Andreas Zeller",
-      "opening_hours": "Mo,Tu,Th,Fr 07:00-18:00; We 07:00-13:00; Sa 08:00-12:00",
-      "opening_hours:covid19": "open",
+      "opening_hours": "Sa 08:00-12:00; Mo,Tu,Th,Fr 07:30-18:00; We 07:30-13:00",
       "shop": "butcher",
       "takeaway:covid19": "yes",
       "toilets:wheelchair": "no",
@@ -15708,23 +15647,6 @@
       "shop": "butcher",
       "website": "http://www.metzgereigantner.de",
       "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
-    "id": 1872838617,
-    "lat": 48.6337046,
-    "lon": 13.187335,
-    "tags": {
-      "addr:city": "Vilshofen an der Donau",
-      "addr:country": "DE",
-      "addr:housenumber": "35",
-      "addr:postcode": "94474",
-      "addr:street": "Stadtplatz",
-      "name": "Braidt",
-      "opening_hours": "Mo-Fr 08:30-18:00; Sa 09:00-12:00",
-      "shop": "butcher",
-      "website": "https://www.metzgerei-braidt.de/"
     }
   },
   {
@@ -16243,22 +16165,6 @@
       "takeaway": "yes",
       "website": "https://vinzenzmurr.de/metzgerei/muenchen-solln-4/",
       "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
-    "id": 1947157415,
-    "lat": 48.1686171,
-    "lon": 11.9129434,
-    "tags": {
-      "addr:city": "Forstinning",
-      "addr:country": "DE",
-      "addr:housenumber": "18",
-      "addr:postcode": "85661",
-      "addr:street": "Mühldorfer Straße",
-      "name": "Scherl",
-      "shop": "butcher",
-      "wheelchair": "no"
     }
   },
   {
@@ -17433,7 +17339,8 @@
     "lat": 49.0023419,
     "lon": 12.822246,
     "tags": {
-      "name": "Fleischerei Edenhofer",
+      "name": "Metzgerei Rainer",
+      "opening_hours": "Mo 07:00-12:00; Tu-Fr 07:00-18:00; Sa 06:30-12:00; PH closed",
       "shop": "butcher"
     }
   },
@@ -18948,9 +18855,12 @@
     "lat": 49.199967,
     "lon": 10.6459747,
     "tags": {
+      "diet:halal": "no",
       "name": "Metzgerei",
+      "opening_hours": "Mo,Tu,Th,Fr 07:00-18:00; We 07:00-13:00; Sa 07:00-12:30",
       "operator": "Gsell",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "no"
     }
   },
   {
@@ -18959,9 +18869,12 @@
     "lat": 49.2009898,
     "lon": 10.6484588,
     "tags": {
+      "diet:halal": "no",
       "name": "Metzgerei",
+      "opening_hours": "Mo 07:00-14:00; Tu 07:00-13:00; We-Fr 07:00-18:00; Sa 08:00-13:00",
       "operator": "Eder",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
@@ -19803,10 +19716,11 @@
       "addr:housenumber": "11",
       "addr:postcode": "85221",
       "addr:street": "Münchner Straße",
-      "name": "Blank",
+      "name": "Forche",
       "opening_hours": "Mo-Fr 07:00-18:00, Sa 08:00-12:00",
+      "phone": "(08131) 73 58 91",
       "shop": "butcher",
-      "website": "https://www.metzgerei-blank.de/"
+      "website": "www.forche.de"
     }
   },
   {
@@ -20194,6 +20108,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-05-20",
       "name": "Vinzenzmurr",
       "operator": "Vinzenzmurr",
       "shop": "butcher",
@@ -21143,6 +21058,7 @@
       "addr:housenumber": "45",
       "addr:postcode": "63897",
       "addr:street": "Hauptstraße",
+      "check_date": "2023-05-27",
       "name": "Rabe",
       "phone": "+49 9371 2221",
       "shop": "butcher"
@@ -23628,6 +23544,7 @@
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
       "name": "Vinzenzmurr",
+      "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00",
       "shop": "butcher"
     }
   },
@@ -24089,17 +24006,6 @@
   },
   {
     "type": "node",
-    "id": 3728023825,
-    "lat": 48.0892669,
-    "lon": 10.8515654,
-    "tags": {
-      "check_date": "2016-03-21",
-      "name": "Metzgerei Bader2",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 3729902825,
     "lat": 48.1088892,
     "lon": 11.4497236,
@@ -24457,18 +24363,6 @@
     "lon": 11.6438541,
     "tags": {
       "name": "Hofmetzgerei Wiesheu",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 3814169466,
-    "lat": 49.4910883,
-    "lon": 10.9326738,
-    "tags": {
-      "name": "Metzgerei Weinländer",
-      "opening_hours": "Tu-Th 07:30-12:30,14:30-18:00; Fr 07:00-18:00; Sa 07:00-13:00",
-      "phone": "+49 911 755414",
       "shop": "butcher"
     }
   },
@@ -24894,7 +24788,7 @@
       "addr:housenumber": "M 1",
       "addr:postcode": "85368",
       "addr:street": "Degernpoint",
-      "check_date": "2023-03-25",
+      "check_date": "2023-06-06",
       "name": "Wasner",
       "shop": "butcher",
       "toilets:wheelchair": "no",
@@ -25069,6 +24963,7 @@
       "addr:housenumber": "7",
       "addr:postcode": "95233",
       "addr:street": "Kirchplatz",
+      "addr:suburb": "Enchenreuth",
       "name": "Metzgerei Feulner",
       "shop": "butcher",
       "wheelchair": "no"
@@ -25085,6 +24980,7 @@
       "addr:housenumber": "1",
       "addr:postcode": "95233",
       "addr:street": "Am Pfarrgrund",
+      "addr:suburb": "Enchenreuth",
       "name": "Metzgerei Schultheiß",
       "shop": "butcher"
     }
@@ -26665,7 +26561,8 @@
     "lon": 10.5115536,
     "tags": {
       "name": "KachlerHofer",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "no"
     }
   },
   {
@@ -26947,6 +26844,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-06-10",
       "diet:halal": "no",
       "diet:kosher": "no",
       "level": "0",
@@ -27388,16 +27286,6 @@
   },
   {
     "type": "node",
-    "id": 5175975699,
-    "lat": 47.8568193,
-    "lon": 12.1487703,
-    "tags": {
-      "name": "Bufler",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 5176382745,
     "lat": 48.7247132,
     "lon": 10.778005,
@@ -27773,9 +27661,11 @@
     "lat": 48.9081862,
     "lon": 12.6931346,
     "tags": {
-      "name": "Metzgerei Kammerl",
+      "addr:housenumber": "15",
+      "addr:street": "Stadtplatz",
+      "name": "Fleisch- und Wurstwaren Edwin Herrler",
       "shop": "butcher",
-      "survey:date": "2018-01-04"
+      "survey:date": "2023-06-04"
     }
   },
   {
@@ -28289,7 +28179,7 @@
       "addr:housenumber": "1b",
       "addr:postcode": "84524",
       "addr:street": "Altöttinger Straße",
-      "check_date:opening_hours": "2021-10-05",
+      "check_date:opening_hours": "2023-05-24",
       "internet_access": "wlan",
       "name": "Metzgerei Fischer",
       "opening_hours": "Mo-Sa 07:00-20:00",
@@ -28376,6 +28266,7 @@
     "lat": 49.4114549,
     "lon": 11.0124475,
     "tags": {
+      "level": "1",
       "name": "Metzgerei Jacob",
       "shop": "butcher"
     }
@@ -28425,6 +28316,9 @@
     "lat": 47.879995,
     "lon": 11.5191758,
     "tags": {
+      "addr:city": "Egling",
+      "addr:place": "Weihermühle",
+      "addr:postcode": "82544",
       "email": "info@aktivschaf.de",
       "name": "Aktivhof Weihermühle",
       "organic": "no",
@@ -28742,8 +28636,8 @@
   {
     "type": "node",
     "id": 5918785089,
-    "lat": 47.9710226,
-    "lon": 11.6535136,
+    "lat": 47.9709928,
+    "lon": 11.6534965,
     "tags": {
       "addr:city": "Sauerlach",
       "addr:housenumber": "6",
@@ -28806,6 +28700,7 @@
     "lat": 47.6336009,
     "lon": 11.2337381,
     "tags": {
+      "check_date": "2023-05-22",
       "name": "Sterff",
       "shop": "butcher"
     }
@@ -29151,6 +29046,7 @@
       "addr:housenumber": "4",
       "addr:postcode": "95233",
       "addr:street": "Am Pfarrgrund",
+      "addr:suburb": "Enchenreuth",
       "name": "Konrad Reif",
       "shop": "butcher"
     }
@@ -29270,7 +29166,7 @@
       "addr:country": "DE",
       "addr:housenumber": "1",
       "addr:postcode": "95119",
-      "addr:street": "Doktor-Hans-Künzel-Straße",
+      "addr:street": "Dr.-Hans-Künzel-Straße",
       "name": "Inge Herpich",
       "shop": "butcher"
     }
@@ -29806,26 +29702,11 @@
   },
   {
     "type": "node",
-    "id": 6305323810,
-    "lat": 49.7002118,
-    "lon": 10.7761526,
-    "tags": {
-      "addr:city": "Lonnerstadt",
-      "addr:housenumber": "20",
-      "addr:postcode": "91315",
-      "addr:street": "Höchstadter Straße",
-      "contact:phone": "+49 9193 9310",
-      "name": "Schwandner Fleischbearbeitungs GmbH",
-      "shop": "butcher",
-      "website": "http://www.partyservice-schwandner.de/"
-    }
-  },
-  {
-    "type": "node",
     "id": 6305504512,
     "lat": 49.9451184,
     "lon": 9.2101206,
     "tags": {
+      "check_date": "2023-05-28",
       "name": "Metzgerei Fay",
       "shop": "butcher"
     }
@@ -30236,6 +30117,7 @@
     "lat": 49.9013968,
     "lon": 9.2189898,
     "tags": {
+      "check_date": "2023-05-22",
       "craft": "caterer",
       "description": "Metzgerei und Partyservice",
       "name": "Aulbach's Wurstlädchen",
@@ -30283,6 +30165,19 @@
       "name": "Göppner",
       "opening_hours": "Tu-Fr 07:30-12:30,14:00-18:00; Sa 07:30-12:00,14:00-18:00",
       "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6470559996,
+    "lat": 48.1349803,
+    "lon": 11.5693401,
+    "tags": {
+      "brand": "Vinzenzmurr",
+      "brand:wikidata": "Q2527361",
+      "name": "Vinzenzmurr",
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
@@ -33010,27 +32905,6 @@
   },
   {
     "type": "node",
-    "id": 8423406826,
-    "lat": 48.2476945,
-    "lon": 11.650905,
-    "tags": {
-      "addr:city": "Garching bei München",
-      "addr:country": "DE",
-      "addr:housenumber": "23",
-      "addr:postcode": "85748",
-      "addr:street": "Münchener Straße",
-      "contact:email": "info@metzgerei-karl.de",
-      "contact:phone": "+49 89 3291218",
-      "name": "Metzgerei Karl",
-      "opening_hours": "Mo 06:45-12:45; Tu-Fr 06:45-18:00; Sa 06:30-12:30",
-      "operator": "Hermann Karl",
-      "shop": "butcher",
-      "website": "http://www.metzgerei-karl.de/",
-      "wheelchair": "limited"
-    }
-  },
-  {
-    "type": "node",
     "id": 8423406829,
     "lat": 48.2479506,
     "lon": 11.6510302,
@@ -33456,6 +33330,7 @@
     "lat": 49.8793067,
     "lon": 9.1555394,
     "tags": {
+      "check_date": "2023-05-27",
       "craft": "caterer",
       "name": "Landmetzgerei Hock",
       "opening_hours": "Tu-Fr 07:30-14:00, Tu,Th,Fr 15:30-18:00, Sa 07:30-13:00; PH off",
@@ -33901,6 +33776,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-05-25",
       "name": "Vinzenzmurr",
       "shop": "butcher"
     }
@@ -34030,7 +33906,7 @@
     "lat": 48.101208,
     "lon": 11.622642,
     "tags": {
-      "check_date:opening_hours": "2022-07-15",
+      "check_date:opening_hours": "2023-05-30",
       "diet:halal": "no",
       "diet:kosher": "no",
       "name": "Südbayerische Fleischwaren",
@@ -35439,7 +35315,7 @@
       "addr:postcode": "85049",
       "addr:street": "Harderstraße",
       "name": "Metzgerei Pauleser",
-      "opening_hours": "Mo-Fr 07:00-18:00, Sa 06:30-14:00",
+      "opening_hours": "Mo-Fr 07:00-18:00; Sa 06:30-14:00; PH off",
       "phone": "+49 841 93 11 052",
       "shop": "butcher",
       "website": "https://metzgerei-pauleser.de"
@@ -35494,8 +35370,8 @@
   {
     "type": "node",
     "id": 10221925772,
-    "lat": 48.0876735,
-    "lon": 11.6457103,
+    "lat": 48.0877068,
+    "lon": 11.6457305,
     "tags": {
       "addr:city": "München",
       "addr:country": "DE",
@@ -35847,6 +35723,137 @@
     "lon": 11.1705501,
     "tags": {
       "name": "Hofladen Drexl",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10907607918,
+    "lat": 48.6143108,
+    "lon": 11.5625625,
+    "tags": {
+      "name": "Metzgerei Meir",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10909186632,
+    "lat": 48.0626586,
+    "lon": 12.7666984,
+    "tags": {
+      "name": "Metzgerei Krutzke",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10913750185,
+    "lat": 48.6818015,
+    "lon": 10.8119432,
+    "tags": {
+      "addr:city": "Asbach-Bäumenheim",
+      "addr:housenumber": "16",
+      "addr:postcode": "86663",
+      "addr:street": "Hauptstraße",
+      "contact:phone": "+49 906 99299",
+      "contact:website": "http://www.goeth-metzgerei.de/standorte-filialen/filiale-asbach-b%C3%A4umenheim/",
+      "name": "Metzgerei Göth",
+      "opening_hours": "Mo-Th 08:00-12:30,14:00-18:00; We 08:00-12:30; Fr 08:00-18:00; Sa 07:30-12:00",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10917708713,
+    "lat": 49.4584894,
+    "lon": 10.5360493,
+    "tags": {
+      "name": "Hofmetzgerei Michael Hülf",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10926330080,
+    "lat": 48.5265982,
+    "lon": 12.139086,
+    "tags": {
+      "name": "Tremml",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10942148706,
+    "lat": 50.3100209,
+    "lon": 9.7914149,
+    "tags": {
+      "name": "Schuricht",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10944445275,
+    "lat": 49.612502,
+    "lon": 11.4072314,
+    "tags": {
+      "name": "Singer",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10947442433,
+    "lat": 49.5296026,
+    "lon": 11.1505048,
+    "tags": {
+      "addr:city": "Heroldsberg",
+      "addr:housenumber": "94",
+      "addr:postcode": "90562",
+      "addr:street": "Hauptstraße",
+      "name": "Metzgerei Richard Büttner",
+      "opening_hours": "Mo 07:30-13:00, Tu-Fr 07:30-18:00, Sa 07:30-13:00",
+      "shop": "butcher",
+      "short_name": "Büttner"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10964159224,
+    "lat": 47.9693416,
+    "lon": 11.3026639,
+    "tags": {
+      "addr:housenumber": "26",
+      "addr:street": "Hauptstraße",
+      "name": "Lutz",
+      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-12:30",
+      "phone": "+49 8157 1090",
+      "shop": "butcher",
+      "website": "https://www.metzgerei-lutz.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10973944482,
+    "lat": 50.255962,
+    "lon": 10.0604786,
+    "tags": {
+      "name": "Metzgerei Körblein",
+      "opening_hours": "Mo-Tu 07:30-12:30; Th-Fr 07:30-12:30, 14:30-18:00; Sa 07:00-12:00; PH off",
+      "phone": "+49 9708 264",
+      "shop": "butcher",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10977714145,
+    "lat": 47.6055993,
+    "lon": 10.4159363,
+    "tags": {
+      "name": "Kraus",
       "shop": "butcher"
     }
   },
@@ -36300,38 +36307,6 @@
       "name": "Metzgerei Pauleser",
       "shop": "butcher",
       "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "way",
-    "id": 43982256,
-    "nodes": [
-      458892048,
-      559327980,
-      559328015,
-      559328012,
-      458892048
-    ],
-    "tags": {
-      "addr:city": "Hersbruck",
-      "addr:country": "DE",
-      "addr:housenumber": "11",
-      "addr:postcode": "91217",
-      "addr:street": "Unterer Markt",
-      "amenity": "fast_food",
-      "building": "apartments",
-      "building:levels": "2",
-      "cuisine": "german",
-      "email": "info@kratzers-biergarten.de",
-      "fax": "+49 9151 71840",
-      "name": "Kratzers",
-      "outdoor_seating": "no",
-      "phone": "+49 9151 2723",
-      "roof:levels": "3",
-      "roof:shape": "gabled",
-      "shop": "butcher",
-      "takeaway": "yes",
-      "website": "https://www.kratzers-biergarten.de/"
     }
   },
   {
@@ -37194,31 +37169,6 @@
   },
   {
     "type": "way",
-    "id": 92206589,
-    "nodes": [
-      1070512396,
-      3249932928,
-      1070512381,
-      1070512264,
-      1070512502,
-      3249932927,
-      1070512396
-    ],
-    "tags": {
-      "addr:city": "Asbach-Bäumenheim",
-      "addr:housenumber": "16",
-      "addr:postcode": "86663",
-      "addr:street": "Hauptstraße",
-      "building": "yes",
-      "contact:phone": "+49 906 99299",
-      "contact:website": "http://www.goeth-metzgerei.de/standorte-filialen/filiale-asbach-b%C3%A4umenheim/",
-      "name": "Metzgerei Göth",
-      "opening_hours": "Mo-Th 08:00-12:30,14:00-18:00; We 08:00-12:30; Fr 08:00-18:00; Sa 07:30-12:00",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "way",
     "id": 93336459,
     "nodes": [
       1082188332,
@@ -37878,7 +37828,9 @@
     "tags": {
       "addr:city": "Waging a. See",
       "addr:country": "DE",
+      "addr:housenumber": "2",
       "addr:postcode": "83329",
+      "addr:street": "Wilhelm-Scharnow-Straße",
       "amenity": "restaurant",
       "building": "yes",
       "cuisine": "regional",
@@ -37904,7 +37856,9 @@
     "tags": {
       "addr:city": "Waging a. See",
       "addr:country": "DE",
+      "addr:housenumber": "1",
       "addr:postcode": "83329",
+      "addr:street": "Bahnhofstraße",
       "building": "yes",
       "name": "Perschl",
       "shop": "butcher",
@@ -38448,7 +38402,7 @@
       "addr:street": "Weißengasse",
       "building": "yes",
       "name": "Metzgerei Schott",
-      "opening_hours": "Tu 13:30-18:00; Fr 09:00-18:00; Sa 07:30-12:30; PH off",
+      "opening_hours": "Tu 11:30-18:00; Fr 08:00-18:00; Sa 07:30-12:30; PH off",
       "shop": "butcher",
       "website": "https://direktvermarktung-schott.de/unsere-metzgerei/",
       "wheelchair": "yes"
@@ -38551,33 +38505,6 @@
       "building": "yes",
       "cuisine": "regional",
       "name": "Metzgerei & Gaststätte Winterholler",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "way",
-    "id": 136476920,
-    "nodes": [
-      1497086764,
-      1497086741,
-      1497086704,
-      2012955299,
-      2012955297,
-      1497086748,
-      1497086768,
-      1497086760,
-      1497086764
-    ],
-    "tags": {
-      "addr:city": "Sünching",
-      "addr:country": "DE",
-      "addr:housenumber": "19",
-      "addr:postcode": "93104",
-      "addr:street": "Bahnhofstraße",
-      "building": "commercial",
-      "name": "Metzgerei Ehrl",
-      "opening_hours": "Mo 07:30-12:30; Tu-Fr 07:30-12:30,14:00-18:00; Sa 07:00-12:00",
-      "roof:shape": "gabled",
       "shop": "butcher"
     }
   },
@@ -39345,6 +39272,7 @@
       "addr:street": "Schmiedsgasse",
       "building": "yes",
       "name": "Hauck",
+      "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:30-12:30",
       "shop": "butcher",
       "website": "http://www.metzger-meines-vertrauens.de/",
       "wheelchair": "yes"
@@ -40309,31 +40237,6 @@
       "name": "Metzgerei Max Malzer",
       "shop": "butcher",
       "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "way",
-    "id": 202240925,
-    "nodes": [
-      6275352899,
-      2122193267,
-      2122193269,
-      2122193288,
-      2122193294,
-      6275352900,
-      2122193308,
-      6275352901,
-      6275352899
-    ],
-    "tags": {
-      "addr:city": "Heroldsberg",
-      "addr:postcode": "90562",
-      "addr:street": "Hauptstraße",
-      "building": "yes",
-      "name": "Büttner",
-      "opening_hours": "Mo 07:30-13:00, Tu-Fr 07:30-18:00, Sa 07:30-13:00",
-      "shop": "butcher",
-      "source": "Bing"
     }
   },
   {
@@ -41341,6 +41244,30 @@
       "shop": "butcher",
       "website": "https://metzgerei-bausewein.de/",
       "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 243265717,
+    "nodes": [
+      2506845974,
+      2506845930,
+      2506845929,
+      2506845897,
+      2506845899,
+      2506845976,
+      2506845974
+    ],
+    "tags": {
+      "addr:housenumber": "48",
+      "addr:street": "Hauptstraße",
+      "building": "retail",
+      "building:levels": "2",
+      "name": "Spateneder",
+      "opening_hours": "Mo-Th 07:00-12:30; Fr 07:00-12:30,14:00-18:00; Sa 07:00-12:00",
+      "roof:levels": "1",
+      "shop": "butcher",
+      "source": "Bing Sat"
     }
   },
   {
@@ -43506,10 +43433,14 @@
       "addr:postcode": "94244",
       "addr:street": "Oberer Furthof",
       "building": "yes",
+      "building:colour": "white",
+      "building:material": "plaster",
       "name": "Metzgerei Wirrer",
       "payment:cash": "yes",
       "payment:coins": "yes",
       "payment:notes": "yes",
+      "roof:colour": "#CC9173",
+      "roof:material": "roof_tiles",
       "shop": "butcher"
     }
   },
@@ -43847,6 +43778,7 @@
     ],
     "tags": {
       "check_date": "2016-21-07",
+      "check_date:opening_hours": "2023-06-08",
       "contact:phone": "+49 911 243077",
       "indoor": "room",
       "level": "-1",
@@ -45792,6 +45724,29 @@
     }
   },
   {
+    "type": "way",
+    "id": 1174311378,
+    "nodes": [
+      10911617620,
+      10911617619,
+      10911617618,
+      1867111804,
+      10911617620
+    ],
+    "tags": {
+      "addr:city": "Missen-Wilhams",
+      "addr:street": "Hauptstraße 17a",
+      "diet:halal": "no",
+      "diet:kosher": "no",
+      "level": "EG",
+      "name": "Sonja's Bio Fleischlädele",
+      "opening_hours": "Fr 14:15-18:00; Sa 08:00-12:00; PH closed",
+      "phone": "+49 8320 1258",
+      "shop": "butcher",
+      "wheelchair": "yes"
+    }
+  },
+  {
     "type": "relation",
     "id": 2639523,
     "members": [
@@ -46485,6 +46440,30 @@
     "id": 3472734501,
     "lat": 49.8279469,
     "lon": 10.0063133
+  },
+  {
+    "type": "node",
+    "id": 1867111804,
+    "lat": 47.5970973,
+    "lon": 10.1270335
+  },
+  {
+    "type": "node",
+    "id": 10911617618,
+    "lat": 47.5970333,
+    "lon": 10.1270328
+  },
+  {
+    "type": "node",
+    "id": 10911617619,
+    "lat": 47.5970332,
+    "lon": 10.1269443
+  },
+  {
+    "type": "node",
+    "id": 10911617620,
+    "lat": 47.5970977,
+    "lon": 10.1269443
   },
   {
     "type": "node",
@@ -49345,86 +49324,86 @@
   {
     "type": "node",
     "id": 1339404158,
-    "lat": 47.9329981,
-    "lon": 12.7338001
+    "lat": 47.9329818,
+    "lon": 12.7337842
   },
   {
     "type": "node",
     "id": 1339404170,
-    "lat": 47.9329338,
-    "lon": 12.7339328
+    "lat": 47.9328996,
+    "lon": 12.7339196
   },
   {
     "type": "node",
     "id": 1339404174,
-    "lat": 47.932865,
-    "lon": 12.7338613
+    "lat": 47.932848,
+    "lon": 12.733856
   },
   {
     "type": "node",
     "id": 1339404182,
-    "lat": 47.9328667,
-    "lon": 12.7343375
+    "lat": 47.9328332,
+    "lon": 12.7343537
   },
   {
     "type": "node",
     "id": 1339404186,
-    "lat": 47.9328962,
-    "lon": 12.7342656
+    "lat": 47.9328746,
+    "lon": 12.7342844
   },
   {
     "type": "node",
     "id": 1339404191,
-    "lat": 47.9328632,
-    "lon": 12.7344352
+    "lat": 47.9328304,
+    "lon": 12.7344405
   },
   {
     "type": "node",
     "id": 1339404200,
-    "lat": 47.9328802,
-    "lon": 12.7337154
+    "lat": 47.9328653,
+    "lon": 12.7337165
   },
   {
     "type": "node",
     "id": 1339404204,
-    "lat": 47.9328966,
-    "lon": 12.7339242
+    "lat": 47.9328689,
+    "lon": 12.7339125
   },
   {
     "type": "node",
     "id": 1339404208,
-    "lat": 47.9328695,
-    "lon": 12.734264
+    "lat": 47.9328355,
+    "lon": 12.7342822
   },
   {
     "type": "node",
     "id": 1339404217,
-    "lat": 47.9329947,
-    "lon": 12.7344448
+    "lat": 47.9329638,
+    "lon": 12.7344502
   },
   {
     "type": "node",
     "id": 1339404229,
-    "lat": 47.9329022,
-    "lon": 12.73387
+    "lat": 47.9328752,
+    "lon": 12.7338647
   },
   {
     "type": "node",
     "id": 1339404233,
-    "lat": 47.9329866,
-    "lon": 12.7339445
+    "lat": 47.9329681,
+    "lon": 12.7339339
   },
   {
     "type": "node",
     "id": 1339404236,
-    "lat": 47.9330057,
-    "lon": 12.7337445
+    "lat": 47.9329851,
+    "lon": 12.7337498
   },
   {
     "type": "node",
     "id": 1339404250,
-    "lat": 47.9330001,
-    "lon": 12.7342788
+    "lat": 47.9329626,
+    "lon": 12.7342917
   },
   {
     "type": "node",
@@ -49659,6 +49638,42 @@
     "id": 1921996697,
     "lat": 48.1609166,
     "lon": 12.817848
+  },
+  {
+    "type": "node",
+    "id": 2506845897,
+    "lat": 48.2485694,
+    "lon": 12.9857481
+  },
+  {
+    "type": "node",
+    "id": 2506845899,
+    "lat": 48.2485714,
+    "lon": 12.9855844
+  },
+  {
+    "type": "node",
+    "id": 2506845929,
+    "lat": 48.2486401,
+    "lon": 12.98575
+  },
+  {
+    "type": "node",
+    "id": 2506845930,
+    "lat": 48.2486406,
+    "lon": 12.9857076
+  },
+  {
+    "type": "node",
+    "id": 2506845974,
+    "lat": 48.2486995,
+    "lon": 12.9857093
+  },
+  {
+    "type": "node",
+    "id": 2506845976,
+    "lat": 48.248701,
+    "lon": 12.985588
   },
   {
     "type": "node",
@@ -50607,42 +50622,6 @@
     "id": 1198670866,
     "lat": 48.7604171,
     "lon": 10.7107924
-  },
-  {
-    "type": "node",
-    "id": 1070512264,
-    "lat": 48.681781,
-    "lon": 10.8120806
-  },
-  {
-    "type": "node",
-    "id": 1070512381,
-    "lat": 48.6819455,
-    "lon": 10.8119249
-  },
-  {
-    "type": "node",
-    "id": 1070512396,
-    "lat": 48.6818594,
-    "lon": 10.8118437
-  },
-  {
-    "type": "node",
-    "id": 1070512502,
-    "lat": 48.681717,
-    "lon": 10.8119254
-  },
-  {
-    "type": "node",
-    "id": 3249932927,
-    "lat": 48.6818437,
-    "lon": 10.8118056
-  },
-  {
-    "type": "node",
-    "id": 3249932928,
-    "lat": 48.6818973,
-    "lon": 10.8118078
   },
   {
     "type": "node",
@@ -54708,30 +54687,6 @@
   },
   {
     "type": "node",
-    "id": 458892048,
-    "lat": 49.5081887,
-    "lon": 11.4294082
-  },
-  {
-    "type": "node",
-    "id": 559327980,
-    "lat": 49.5082679,
-    "lon": 11.4293891
-  },
-  {
-    "type": "node",
-    "id": 559328012,
-    "lat": 49.5082144,
-    "lon": 11.4296608
-  },
-  {
-    "type": "node",
-    "id": 559328015,
-    "lat": 49.5082936,
-    "lon": 11.4296418
-  },
-  {
-    "type": "node",
     "id": 1805333595,
     "lat": 49.369053,
     "lon": 11.6053176
@@ -55041,54 +54996,6 @@
     "id": 3072457802,
     "lat": 49.6685577,
     "lon": 10.9254823
-  },
-  {
-    "type": "node",
-    "id": 2122193267,
-    "lat": 49.5297135,
-    "lon": 11.1503185
-  },
-  {
-    "type": "node",
-    "id": 2122193269,
-    "lat": 49.5297157,
-    "lon": 11.1502728
-  },
-  {
-    "type": "node",
-    "id": 2122193288,
-    "lat": 49.5297501,
-    "lon": 11.1502917
-  },
-  {
-    "type": "node",
-    "id": 2122193294,
-    "lat": 49.5297501,
-    "lon": 11.150348
-  },
-  {
-    "type": "node",
-    "id": 2122193308,
-    "lat": 49.5295338,
-    "lon": 11.1505368
-  },
-  {
-    "type": "node",
-    "id": 6275352899,
-    "lat": 49.529535,
-    "lon": 11.1503165
-  },
-  {
-    "type": "node",
-    "id": 6275352900,
-    "lat": 49.5297535,
-    "lon": 11.1505244
-  },
-  {
-    "type": "node",
-    "id": 6275352901,
-    "lat": 49.5295346,
-    "lon": 11.1504777
   },
   {
     "type": "node",
@@ -57033,54 +56940,6 @@
     "id": 3702821020,
     "lat": 48.9556413,
     "lon": 12.2397224
-  },
-  {
-    "type": "node",
-    "id": 1497086704,
-    "lat": 48.8821152,
-    "lon": 12.3549589
-  },
-  {
-    "type": "node",
-    "id": 1497086741,
-    "lat": 48.8821865,
-    "lon": 12.3550501
-  },
-  {
-    "type": "node",
-    "id": 1497086748,
-    "lat": 48.8822262,
-    "lon": 12.3547243
-  },
-  {
-    "type": "node",
-    "id": 1497086760,
-    "lat": 48.8822459,
-    "lon": 12.3548448
-  },
-  {
-    "type": "node",
-    "id": 1497086764,
-    "lat": 48.8822776,
-    "lon": 12.3548854
-  },
-  {
-    "type": "node",
-    "id": 1497086768,
-    "lat": 48.8822767,
-    "lon": 12.354789
-  },
-  {
-    "type": "node",
-    "id": 2012955297,
-    "lat": 48.882192,
-    "lon": 12.354786
-  },
-  {
-    "type": "node",
-    "id": 2012955299,
-    "lat": 48.8822031,
-    "lon": 12.3548002
   },
   {
     "type": "node",
