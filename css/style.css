@@ -23,6 +23,7 @@ body {
 	margin-right:auto;
     max-height: 500px;
     max-width: 1000px;
+    border-radius: 0.75rem;
 }
 html,body {
     position: absoulte;
