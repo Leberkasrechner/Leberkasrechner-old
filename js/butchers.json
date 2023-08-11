@@ -21420,23 +21420,6 @@
   },
   {
     "type": "node",
-    "id": 3096184924,
-    "lat": 49.0460955,
-    "lon": 12.1023388,
-    "tags": {
-      "addr:city": "Regensburg",
-      "addr:country": "DE",
-      "addr:housenumber": "136",
-      "addr:postcode": "93057",
-      "addr:street": "Amberger Straße",
-      "name": "Limmer",
-      "opening_hours": "Mo-Fr 06:30-17:00; Sa 06:30-13:00",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 3112706962,
     "lat": 48.0067804,
     "lon": 10.5944911,
@@ -35998,6 +35981,47 @@
       "opening_hours": "Mo-We 07:00-13:00; Th,Fr 07:00-18:00; Sa 07:00-12:00",
       "shop": "butcher",
       "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11104249526,
+    "lat": 47.8758083,
+    "lon": 11.7395503,
+    "tags": {
+      "addr:city": "Valley",
+      "addr:housenumber": "18",
+      "addr:postcode": "83626",
+      "addr:street": "Miesbacher Straße",
+      "name": "Metzgerei Kleeblatt",
+      "opening_hours": "Mo-Fr 07:00-13:00",
+      "shop": "butcher",
+      "website": "https://www.metzgerei-kleeblatt.de/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11105760942,
+    "lat": 49.2069571,
+    "lon": 12.6811872,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:street": "Gewerbepark Chammünster Nord A",
+      "name": "Decker",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11105917348,
+    "lat": 49.2097113,
+    "lon": 12.697809,
+    "tags": {
+      "addr:housenumber": "11",
+      "addr:street": "Goldberglstraße",
+      "name": "Hunger",
+      "phone": "+49 9971 30355",
+      "shop": "butcher"
     }
   },
   {
