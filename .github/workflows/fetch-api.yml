@@ -1,7 +1,7 @@
 name: fetch-api
 on: 
    schedule:
-     - cron: '0 4 * * *'
+     - cron: '0 4 * * 5'
 jobs:
   fetch-data:
     runs-on: ubuntu-latest
