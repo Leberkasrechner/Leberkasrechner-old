@@ -629,6 +629,7 @@
     "lat": 50.0325297,
     "lon": 10.5002118,
     "tags": {
+      "name:signed": "no",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -1061,6 +1062,7 @@
     "lat": 49.3118697,
     "lon": 10.5706171,
     "tags": {
+      "check_date:opening_hours": "2023-10-10",
       "name": "Metzgerei Walz",
       "opening_hours": "Mo-Fr 07:00-13:00,14:00-18:00; Sa 07:00-13:00",
       "shop": "butcher",
@@ -1981,7 +1983,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
-      "check_date": "2023-03-05",
+      "check_date": "2023-10-11",
       "diet:halal": "no",
       "diet:kosher": "no",
       "name": "Vinzenzmurr",
@@ -3005,9 +3007,11 @@
     "lat": 48.1130174,
     "lon": 11.6260406,
     "tags": {
+      "check_date": "2023-10-06",
       "name": "Der Metzger Schmaus",
       "opening_hours": "Mo-We 08:00-13:00; Th 08:00-13:00, 16:00-18:00; Fr 08:00-13:00, 15:00-18:00; Sa 07:30-12:00",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "no"
     }
   },
   {
@@ -4404,7 +4408,7 @@
       "addr:postcode": "82487",
       "addr:street": "Verlegergasse",
       "name": "Metzgerei Sebastian Gerold",
-      "opening_hours": "Mo,Th,Fr 08:00-13:30,15:00-18:00; Tu,We 08:00-13:00; Sa 08:00-12:30",
+      "opening_hours": "Mo,Fr 08:30-13:00,15:00-17:30; Tu-Th 08:30-13:00; Sa 08:00-12:30",
       "phone": "+49 8822 3535",
       "shop": "butcher",
       "wheelchair": "no"
@@ -5267,7 +5271,7 @@
       "addr:housenumber": "2",
       "addr:postcode": "95028",
       "addr:street": "Unteres Tor",
-      "name": "Metzgerei Lochner",
+      "name": "Metzgerei Lochner (geschlossen)",
       "shop": "butcher",
       "wheelchair": "no"
     }
@@ -6622,8 +6626,8 @@
   {
     "type": "node",
     "id": 653021183,
-    "lat": 48.6243559,
-    "lon": 12.3210025,
+    "lat": 48.6245367,
+    "lon": 12.3205681,
     "tags": {
       "name": "Pflügler",
       "shop": "butcher",
@@ -6741,7 +6745,7 @@
       "addr:housenumber": "40",
       "addr:postcode": "86163",
       "addr:street": "Höfatsstraße",
-      "name": "Metzgerei Hübl",
+      "name": "Metzgerei Boneberger",
       "opening_hours": "Mo-Th 07:30-13:30,14:30-18:00, Fr 07:30-18:00, Sa 07:00-12:00",
       "phone": "+49 821 6507700",
       "shop": "butcher",
@@ -11656,7 +11660,7 @@
       "addr:housenumber": "6",
       "addr:postcode": "85408",
       "addr:street": "Hauptstraße",
-      "check_date": "2023-01-21",
+      "check_date": "2023-10-08",
       "name": "Metzgerei Bauer",
       "phone": "+49 8766 261",
       "shop": "butcher",
@@ -14087,7 +14091,7 @@
       "addr:housenumber": "16",
       "addr:postcode": "84048",
       "addr:street": "Abensberger Straße",
-      "name": "Kaindl",
+      "name": "Wagner",
       "shop": "butcher",
       "source": "local_knowledge"
     }
@@ -14802,7 +14806,7 @@
     "tags": {
       "addr:housenumber": "2",
       "addr:street": "Bahnhofstraße",
-      "check_date": "2023-03-01",
+      "check_date": "2023-10-08",
       "name": "Metzgerei Rampf",
       "opening_hours": "Mo,Tu,Th,Fr 07:00-12:30,14:00-18:00; We 07:00-12:30; Sa 07:00-12:00",
       "shop": "butcher",
@@ -16497,6 +16501,7 @@
       "addr:postcode": "91522",
       "addr:street": "Türkenstraße",
       "name": "Weinländer",
+      "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-14:00",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -16524,6 +16529,7 @@
     "tags": {
       "email": "info@metzgerei-list.de",
       "name": "List",
+      "opening_hours": "Tu-Fr 07:00-13:00,14:30-18:00; Mo off; Sa 07:00-12:30",
       "phone": "+49 911 694531",
       "shop": "butcher",
       "website": "http://www.metzgerei-list.de/",
@@ -19987,6 +19993,7 @@
     "lat": 49.8870853,
     "lon": 10.313687,
     "tags": {
+      "name": "Hennes' Hofladen",
       "shop": "butcher"
     }
   },
@@ -21342,18 +21349,6 @@
   },
   {
     "type": "node",
-    "id": 3125410983,
-    "lat": 49.9787852,
-    "lon": 9.1459519,
-    "tags": {
-      "check_date": "2023-06-28",
-      "name": "Sandt",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 3125719555,
     "lat": 49.672525,
     "lon": 12.3304426,
@@ -22101,6 +22096,7 @@
     "lat": 47.8808692,
     "lon": 12.3371215,
     "tags": {
+      "check_date:opening_hours": "2023-10-07",
       "name": "Gässner",
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
       "shop": "butcher",
@@ -23053,17 +23049,6 @@
   },
   {
     "type": "node",
-    "id": 3562724593,
-    "lat": 49.1999749,
-    "lon": 12.5081178,
-    "tags": {
-      "name": "Metzger",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
     "id": 3562795911,
     "lat": 49.1939679,
     "lon": 12.5137712,
@@ -23314,8 +23299,9 @@
     "tags": {
       "addr:housenumber": "4",
       "addr:street": "Gottfried-Kölwel-Platz",
-      "name": "Metzgerei Mosner",
+      "name": "Metzgerei Leidl",
       "shop": "butcher",
+      "website": "https://www.metzgerei-leidl.de/",
       "wheelchair": "yes"
     }
   },
@@ -24155,7 +24141,7 @@
     "lon": 10.508249,
     "tags": {
       "name": "Metzgerei Häfner",
-      "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-13:00",
+      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:00-13:00",
       "shop": "butcher",
       "wheelchair": "no"
     }
@@ -31896,8 +31882,8 @@
   {
     "type": "node",
     "id": 7900821879,
-    "lat": 49.1972288,
-    "lon": 12.2719223,
+    "lat": 49.197178,
+    "lon": 12.272102,
     "tags": {
       "addr:city": "Nittenau",
       "addr:housenumber": "4",
@@ -32653,6 +32639,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date:opening_hours": "2023-10-06",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-14:00",
       "phone": "+49 89 931908",
@@ -35806,7 +35793,7 @@
       "addr:housenumber": "1",
       "addr:street": "Gewerbepark Chammünster Nord A",
       "description": "Das ist eine Fleischerei.",
-      "name": "Decker",
+      "name": "Decker, Anlieferung",
       "shop": "butcher"
     }
   },
@@ -35975,6 +35962,74 @@
       "name": "Werner Biebl",
       "opening_hours": "Mo-Fr 07:00-18:00, Sa 07:00-12:30",
       "phone": "+49 9465 277",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11243968302,
+    "lat": 48.1043234,
+    "lon": 11.6250661,
+    "tags": {
+      "name": "Südbayerische Fleischwaren",
+      "opening_hours": "Mo-Sa 08:00-20:00",
+      "shop": "butcher",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11247678137,
+    "lat": 50.0815023,
+    "lon": 10.5701687,
+    "tags": {
+      "addr:postcode": "97486",
+      "name": "Metzgerei Stadler",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11253388371,
+    "lat": 49.0396989,
+    "lon": 12.5404791,
+    "tags": {
+      "addr:city": "Wiesenfelden",
+      "addr:housenumber": "9",
+      "addr:postcode": "94344",
+      "addr:street": "Oswaldstraße",
+      "name": "Metzgerei Rudolf Heindl",
+      "opening_hours": "Mo-We 06:00-15:00, Th, Sa 06:00-12:30, Fr 06:00-18:00",
+      "phone": "+49 9966 330",
+      "shop": "butcher",
+      "website": "http://metzgerei-heindl-wiesenfelden.de/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11255259031,
+    "lat": 49.1914491,
+    "lon": 12.5176171,
+    "tags": {
+      "addr:city": "Roding",
+      "addr:housenumber": "1",
+      "addr:postcode": "93426",
+      "addr:street": "Schellererstraße",
+      "name": "REWE",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11255385759,
+    "lat": 49.2030686,
+    "lon": 12.5082536,
+    "tags": {
+      "addr:city": "Roding",
+      "addr:housenumber": "23",
+      "addr:postcode": "93426",
+      "addr:street": "Bahnhofstraße",
+      "operator": "Netto Marken-Discount",
       "shop": "butcher"
     }
   },
@@ -49019,26 +49074,26 @@
   {
     "type": "node",
     "id": 2659966042,
-    "lat": 47.9883804,
-    "lon": 12.17592
+    "lat": 47.9883783,
+    "lon": 12.1759166
   },
   {
     "type": "node",
     "id": 2659966043,
-    "lat": 47.9883751,
-    "lon": 12.176147
+    "lat": 47.9883772,
+    "lon": 12.1761456
   },
   {
     "type": "node",
     "id": 2659966055,
-    "lat": 47.9885954,
-    "lon": 12.1761508
+    "lat": 47.9885944,
+    "lon": 12.176148
   },
   {
     "type": "node",
     "id": 2659966062,
-    "lat": 47.9885927,
-    "lon": 12.1759209
+    "lat": 47.9885956,
+    "lon": 12.175919
   },
   {
     "type": "node",
@@ -51431,8 +51486,8 @@
   {
     "type": "node",
     "id": 2559114027,
-    "lat": 48.5703345,
-    "lon": 11.2829752
+    "lat": 48.5703324,
+    "lon": 11.2829311
   },
   {
     "type": "node",
@@ -51443,8 +51498,8 @@
   {
     "type": "node",
     "id": 2559114048,
-    "lat": 48.5704472,
-    "lon": 11.2829629
+    "lat": 48.5704451,
+    "lon": 11.2829188
   },
   {
     "type": "node",
