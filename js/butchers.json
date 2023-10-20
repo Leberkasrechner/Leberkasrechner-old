@@ -1287,6 +1287,7 @@
     "lon": 9.9145112,
     "tags": {
       "addr:postcode": "97082",
+      "check_date": "2023-10-17",
       "contact:fax": "+49 931 404784020",
       "contact:phone": "+49 931 40478400",
       "contact:website": "https://www.metzgerei-dees.de/uber-uns/filialen/",
@@ -8862,18 +8863,6 @@
   },
   {
     "type": "node",
-    "id": 976680305,
-    "lat": 48.0742295,
-    "lon": 11.2633437,
-    "tags": {
-      "name": "Hirschvogel",
-      "opening_hours": "Tu,Th,Fr 07:00-13:30,15:00-18:00; We 07:00-13:00; Sa 06:30-12:00",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
     "id": 977466482,
     "lat": 47.7265719,
     "lon": 10.3146152,
@@ -11058,14 +11047,13 @@
       "addr:housenumber": "52",
       "addr:postcode": "85354",
       "addr:street": "Untere Hauptstraße",
-      "check_date": "2023-01-17",
+      "check_date": "2023-10-13",
       "fax": "+49-8161-147209",
       "mapillary": "260382452864466",
       "name": "Stuhlberger",
       "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su,PH off",
       "phone": "+49-8161-145601",
       "shop": "butcher",
-      "survey:date": "2022-01-09",
       "website": "http://www.metzgereistuhlberger.de/",
       "wheelchair": "limited"
     }
@@ -11340,13 +11328,12 @@
       "addr:housenumber": "29",
       "addr:postcode": "85354",
       "addr:street": "Obere Hauptstraße",
-      "check_date": "2023-10-01",
+      "check_date": "2023-10-13",
       "fax": "+49-8161-43619",
       "name": "Boneberger",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 06:30-13:00; Su,PH off",
       "phone": "+49-8161-5552",
       "shop": "butcher",
-      "survey:date": "2022-07-24",
       "website": "https://metzgerei-boneberger.de/",
       "wheelchair": "yes"
     }
@@ -15638,8 +15625,8 @@
   {
     "type": "node",
     "id": 1889454386,
-    "lat": 47.9986658,
-    "lon": 11.1748027,
+    "lat": 47.9986356,
+    "lon": 11.1748403,
     "tags": {
       "addr:city": "Herrsching am Ammersee",
       "addr:housenumber": "11",
@@ -16859,11 +16846,10 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
-      "check_date": "2022-11-19",
+      "check_date": "2023-10-13",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Th 09:00-18:00; Fr 07:30-18:00; Sa 07:30-14:00",
       "shop": "butcher",
-      "survey:date": "2020-08-02",
       "website": "https://vinzenzmurr.de/metzgerei/freising/",
       "wheelchair": "yes"
     }
@@ -22092,19 +22078,6 @@
   },
   {
     "type": "node",
-    "id": 3327195993,
-    "lat": 47.8808692,
-    "lon": 12.3371215,
-    "tags": {
-      "check_date:opening_hours": "2023-10-07",
-      "name": "Gässner",
-      "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 3330610293,
     "lat": 50.2843782,
     "lon": 10.229122,
@@ -23054,17 +23027,6 @@
     "lon": 12.5137712,
     "tags": {
       "name": "Heuberger",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 3562795983,
-    "lat": 49.1965234,
-    "lon": 12.5164809,
-    "tags": {
-      "abandoned:shop": "butcher",
-      "name": "Kirmer",
       "shop": "butcher"
     }
   },
@@ -25547,26 +25509,6 @@
   },
   {
     "type": "node",
-    "id": 4434058984,
-    "lat": 49.4507652,
-    "lon": 11.0469681,
-    "tags": {
-      "addr:city": "Nürnberg",
-      "addr:country": "DE",
-      "addr:housenumber": "98",
-      "addr:postcode": "90429",
-      "addr:street": "Austraße",
-      "email": "info@duersch.de",
-      "entrance": "yes",
-      "name": "Metzgerei Dürsch",
-      "opening_hours": "Mo-Fr 08:00-13:00; Sa off",
-      "phone": "+49 911 262984",
-      "shop": "butcher",
-      "website": "https://duersch.de/"
-    }
-  },
-  {
-    "type": "node",
     "id": 4437843912,
     "lat": 49.0872474,
     "lon": 11.2179315,
@@ -27823,8 +27765,9 @@
     "lat": 49.6514859,
     "lon": 11.0044516,
     "tags": {
+      "addr:postcode": "91096",
       "name": "Metzgerei Polster",
-      "opening_hours": "Mo-Fr 08:00-12:30,14:00-18:00, Sa 07:00-12:00; PH off",
+      "opening_hours": "Th-Fr 08:00-12:30, 14:00-15:00",
       "shop": "butcher"
     }
   },
@@ -36008,8 +35951,8 @@
   {
     "type": "node",
     "id": 11255259031,
-    "lat": 49.1914491,
-    "lon": 12.5176171,
+    "lat": 49.1914228,
+    "lon": 12.5175769,
     "tags": {
       "addr:city": "Roding",
       "addr:housenumber": "1",
@@ -36031,6 +35974,36 @@
       "addr:street": "Bahnhofstraße",
       "operator": "Netto Marken-Discount",
       "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11266609321,
+    "lat": 47.9931537,
+    "lon": 12.0066881,
+    "tags": {
+      "addr:city": "Aßling",
+      "addr:housenumber": "9",
+      "addr:postcode": "85617",
+      "addr:street": "Kirchplatz",
+      "name": "Metzgerei Hilscher",
+      "shop": "butcher",
+      "website": "http://www.partyservice-hilscher.de/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11271534893,
+    "lat": 50.2187565,
+    "lon": 10.8219939,
+    "tags": {
+      "addr:country": "DE",
+      "name": "Fleischerei Helmut Brehm",
+      "phone": "+49 9567 1222",
+      "shop": "butcher",
+      "website": "https://www.metzgerei-brehm.de/",
+      "wheelchair": "no"
     }
   },
   {
@@ -39384,31 +39357,6 @@
       "name": "Klostermetzgerei",
       "shop": "butcher",
       "source": "survey"
-    }
-  },
-  {
-    "type": "way",
-    "id": 168349084,
-    "nodes": [
-      1796295639,
-      1796295646,
-      1796295643,
-      1796295638,
-      1796295639
-    ],
-    "tags": {
-      "addr:city": "Seßlach",
-      "addr:country": "DE",
-      "addr:housenumber": "8",
-      "addr:postcode": "96145",
-      "addr:street": "Dietersdorfer Straße",
-      "addr:suburb": "Dietersdorf",
-      "building": "yes",
-      "name": "Fleischerei Helmut Brehm",
-      "phone": "+49 9567 1222",
-      "shop": "butcher",
-      "website": "https://www.metzgerei-brehm.de/",
-      "wheelchair": "no"
     }
   },
   {
@@ -42999,7 +42947,7 @@
       "addr:postcode": "85419",
       "addr:street": "Hauptstraße",
       "building": "apartments",
-      "check_date": "2023-08-11",
+      "check_date": "2023-10-18",
       "name": "Oberloher",
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
       "phone": "+49 8764 216",
@@ -60032,30 +59980,6 @@
     "id": 2490047256,
     "lat": 50.102041,
     "lon": 10.8676452
-  },
-  {
-    "type": "node",
-    "id": 1796295638,
-    "lat": 50.2185959,
-    "lon": 10.8219336
-  },
-  {
-    "type": "node",
-    "id": 1796295639,
-    "lat": 50.2186547,
-    "lon": 10.8218229
-  },
-  {
-    "type": "node",
-    "id": 1796295643,
-    "lat": 50.2187283,
-    "lon": 10.8221058
-  },
-  {
-    "type": "node",
-    "id": 1796295646,
-    "lat": 50.2187869,
-    "lon": 10.8219918
   },
   {
     "type": "node",
