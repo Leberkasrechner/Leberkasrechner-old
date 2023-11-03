@@ -3164,7 +3164,7 @@
     "tags": {
       "addr:housenumber": "336",
       "addr:street": "Altstadt",
-      "check_date": "2023-06-11",
+      "check_date": "2023-10-27",
       "name": "Metzgerei Brandl",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -3197,7 +3197,7 @@
     "tags": {
       "addr:housenumber": "67",
       "addr:street": "Altstadt",
-      "check_date": "2023-06-11",
+      "check_date": "2023-10-27",
       "name": "Metzgerei Stadler",
       "shop": "butcher",
       "wheelchair": "no"
@@ -3831,7 +3831,7 @@
       "name": "Pleintinger",
       "organic": "yes",
       "shop": "butcher",
-      "website": "http://pleintinger.com"
+      "website": "https://pleintinger.com/"
     }
   },
   {
@@ -5773,7 +5773,7 @@
       "brand:wikidata": "Q2527361",
       "cuisine": "regional",
       "name": "Vinzenzmurr",
-      "opening_hours": "Mo-Sa 09:00-20:00",
+      "opening_hours": "Mo-Sa 09:00-20:00; Su off",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -7071,6 +7071,8 @@
       "addr:street": "Bahnhofstraße",
       "name": "Zur Seku",
       "opening_hours": "Tu-Fr 08:00-18:00; Sa 08:00-13:00",
+      "payment:credit_cards": "no",
+      "payment:debit_cards": "yes",
       "shop": "butcher",
       "website": "https://www.zur-seku.de/metzgerei/",
       "wheelchair": "limited"
@@ -7891,9 +7893,11 @@
     "lat": 49.2195263,
     "lon": 11.0259163,
     "tags": {
+      "addr:postcode": "91166",
       "name": "Metzgerei Böbel",
+      "opening_hours": "Tu,We 08:00-16:00; Th,Fr 10:00-18:00; Sa 08:00-16:00",
       "shop": "butcher",
-      "website": "https://www.umdiewurst.de/index_____.php"
+      "website": "https://www.umdiewurst.de/"
     }
   },
   {
@@ -11979,17 +11983,6 @@
       "phone": "+49871 22870",
       "shop": "butcher",
       "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
-    "id": 1425553453,
-    "lat": 48.1460966,
-    "lon": 11.4648463,
-    "tags": {
-      "check_date": "2018-06-12",
-      "name": "Hakan's Metzgerei",
-      "shop": "butcher"
     }
   },
   {
@@ -16787,7 +16780,7 @@
     "tags": {
       "internet_access": "no",
       "name": "Metzgerei Ammon",
-      "opening_hours": "Mo,We-Th 07:30-13:00,15:00-18:00; Fr 07:30-18:00; Sa 07:30-12:30; Tu 07:30-13:00; Su Off",
+      "opening_hours": "Mo,We-Th 07:30-13:00,15:00-18:00; Fr 07:30-18:00; Sa 07:30-12:30; Tu 07:30-13:00; Su off",
       "payment:cash": "yes",
       "payment:credit_cards": "yes",
       "payment:debit_cards": "yes",
@@ -16829,7 +16822,7 @@
       "opening_hours": "Mo,Tu,Th,Fr 07:00-12:30,14:30-18:00; We 07:00-12:30; Sa 07:30-12:30",
       "phone": "+49 8851 206",
       "shop": "butcher",
-      "website": "http://www.metzgerei-pfleger.de/",
+      "website": "https://www.metzgerei-pfleger.de/",
       "wheelchair": "yes"
     }
   },
@@ -20552,7 +20545,7 @@
       "opening_hours": "Mo-Fr 07:00-12:30; Sa 07:00-12:00",
       "phone": "+49 8631 7955",
       "shop": "butcher",
-      "website": "http://metzgerei-hohenester.de"
+      "website": "https://metzgerei-hohenester.de/"
     }
   },
   {
@@ -21087,9 +21080,14 @@
     "lat": 50.2401611,
     "lon": 11.3420315,
     "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "Richard-Wagner-Straße",
+      "check_date": "2023-10-27",
       "name": "Metzgerei Kraus",
-      "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:30",
-      "shop": "butcher"
+      "opening_hours": "Mo off; Tu-Fr 08:00-18:00; Sa 08:00-12:30",
+      "shop": "butcher",
+      "website": "https://www.metzgereikraus.de/",
+      "wheelchair": "yes"
     }
   },
   {
@@ -22001,7 +21999,7 @@
     "tags": {
       "name": "Metzgerei Sebastian Lax",
       "shop": "butcher",
-      "website": "http://www.metzgerei-lax.de",
+      "website": "https://metzgerei-lax.de/",
       "wheelchair": "no"
     }
   },
@@ -23568,7 +23566,7 @@
       "operator": "Familien Wolf",
       "phone": "+49 9151 1500",
       "shop": "butcher",
-      "website": "http://www.michelmuehle.de/",
+      "website": "https://www.michelmuehle.de/",
       "wheelchair": "no"
     }
   },
@@ -24515,9 +24513,15 @@
     "lat": 48.0014701,
     "lon": 11.3413633,
     "tags": {
+      "addr:city": "Starnberg",
+      "addr:housenumber": "7",
+      "addr:postcode": "82319",
+      "addr:street": "Hanfelder Straße",
+      "contact:phone": "+498151 2060",
       "name": "Metzgerei Scholler",
       "opening_hours": "Mo,We,Th 08:00-18:00; Tu 08:00-13:00; Fr 07:30-18:00; Sa 07:30-12:00; PH off",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
@@ -26437,7 +26441,7 @@
       "payment:maestro": "yes",
       "phone": "+49 (0) 88 56 / 92 17-16",
       "shop": "butcher",
-      "website": "http://www.loisachtaler-bauernladen.de/",
+      "website": "https://www.loisachtaler-bauernladen.de/",
       "wheelchair": "yes"
     }
   },
@@ -27131,7 +27135,7 @@
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 06:30-12:00",
       "phone": "+49 8282 829643",
       "shop": "butcher",
-      "website": "http://www.metzgerei-leberl.de"
+      "website": "https://www.metzgerei-leberl.de/"
     }
   },
   {
@@ -27393,7 +27397,7 @@
       "payment:debit_cards": "no",
       "payment:electronic_purses": "no",
       "shop": "butcher",
-      "website": "http://www.loisachtaler-bauernladen.de/",
+      "website": "https://www.loisachtaler-bauernladen.de/",
       "wheelchair": "yes"
     }
   },
@@ -36069,6 +36073,39 @@
     }
   },
   {
+    "type": "node",
+    "id": 11293652701,
+    "lat": 48.8282495,
+    "lon": 11.3158831,
+    "tags": {
+      "name": "Böhmfelder",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11299685193,
+    "lat": 49.3057301,
+    "lon": 10.5680176,
+    "tags": {
+      "name": "Krug",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11308469984,
+    "lat": 48.1456773,
+    "lon": 11.4697172,
+    "tags": {
+      "halal": "yes",
+      "name": "My Meat",
+      "opening_hours": "Mo-Sa 09:00-19:00",
+      "phone": "+49 89 6008 7579",
+      "shop": "butcher"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
@@ -39970,7 +40007,7 @@
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:30-12:00",
       "phone": "+49 8281 4437",
       "shop": "butcher",
-      "website": "http://www.metzgerei-leberl.de/",
+      "website": "https://www.metzgerei-leberl.de/",
       "wheelchair": "yes"
     }
   },
@@ -40375,25 +40412,6 @@
       "name": "Metzgerei Mooser",
       "shop": "butcher",
       "website": "https://www.metzgerei-foerderreuther.de/"
-    }
-  },
-  {
-    "type": "way",
-    "id": 210190115,
-    "nodes": [
-      2202955083,
-      2202955082,
-      2202955074,
-      2202955076,
-      2202955083
-    ],
-    "tags": {
-      "addr:housenumber": "10",
-      "addr:street": "Im Schlott",
-      "building": "commercial",
-      "name": "Beyer",
-      "shop": "butcher",
-      "website": "https://www.metzgerei-beyer.de/"
     }
   },
   {
@@ -43259,6 +43277,7 @@
     "nodes": [
       3966529709,
       3966529663,
+      11297539147,
       3966529662,
       3966529706,
       3966529709
@@ -43667,7 +43686,7 @@
       "building": "yes",
       "name": "Rotwildgehege Honold",
       "shop": "butcher",
-      "website": "http://www.wild2000.de/"
+      "website": "https://www.wild2000.de/"
     }
   },
   {
@@ -45166,7 +45185,7 @@
       "payment:mastercard": "yes",
       "phone": "+49 8171 649573",
       "shop": "butcher",
-      "website": "http://metzgerei-laenger.de/",
+      "website": "https://metzgerei-laenger.de/",
       "wheelchair": "yes"
     }
   },
@@ -52361,30 +52380,6 @@
   },
   {
     "type": "node",
-    "id": 2202955074,
-    "lat": 48.977607,
-    "lon": 11.4786577
-  },
-  {
-    "type": "node",
-    "id": 2202955076,
-    "lat": 48.9776427,
-    "lon": 11.4783977
-  },
-  {
-    "type": "node",
-    "id": 2202955082,
-    "lat": 48.9777561,
-    "lon": 11.4787052
-  },
-  {
-    "type": "node",
-    "id": 2202955083,
-    "lat": 48.9777918,
-    "lon": 11.4784452
-  },
-  {
-    "type": "node",
     "id": 3388243384,
     "lat": 49.0836939,
     "lon": 11.5201933
@@ -57512,6 +57507,12 @@
     "id": 3966529709,
     "lat": 49.0224209,
     "lon": 12.9876859
+  },
+  {
+    "type": "node",
+    "id": 11297539147,
+    "lat": 49.0222612,
+    "lon": 12.9876863
   },
   {
     "type": "node",
