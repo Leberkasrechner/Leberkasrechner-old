@@ -2984,8 +2984,8 @@
   {
     "type": "node",
     "id": 366558227,
-    "lat": 48.0614423,
-    "lon": 12.232781,
+    "lat": 48.0614281,
+    "lon": 12.2327137,
     "tags": {
       "email": "info@metzgereimaurer.de",
       "fax": "+49 8071 94406",
@@ -3777,8 +3777,9 @@
       "diet:kosher": "no",
       "name": "Wölfel",
       "opening_hours": "Mo-Tu 07:00-13:00; Mo-Tu 14:30-18:00; We 07:00-12:30; Th-Fr 07:00-18:00; Sa 07:00-12:00",
+      "phone": "+49 9284 / 384",
       "shop": "butcher",
-      "website": "https.www.metzgerei-woelfel.de",
+      "website": "https://www.metzgerei-woelfel.de/",
       "wheelchair": "yes"
     }
   },
@@ -4688,9 +4689,17 @@
     "lat": 50.2886077,
     "lon": 11.0302586,
     "tags": {
-      "name": "Metzgerei Streng",
+      "addr:city": "Rödental",
+      "addr:housenumber": "4",
+      "addr:postcode": "96472",
+      "addr:street": "Bahnhofsplatz",
+      "addr:suburb": "Oeslau",
+      "name": "Fleischerei Streng",
+      "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su,PH off",
+      "phone": "+49 9563 72360",
       "shop": "butcher",
       "toilets:wheelchair": "no",
+      "website": "https://www.streng-roedental.de/fleischerei/",
       "wheelchair": "limited"
     }
   },
@@ -4929,7 +4938,7 @@
       "opening_hours": "Mo-Th 07:00-14:00; Fr 07:00-18:00; Sa 07:00-13:00",
       "phone": "+49 921 65207",
       "shop": "butcher",
-      "website": "http://www.metzger-gareiss.de/",
+      "website": "https://www.metzger-gareiss.de/",
       "wheelchair": "no"
     }
   },
@@ -5957,7 +5966,7 @@
       "phone": "+49 9208 5089",
       "shop": "butcher",
       "toilets:wheelchair": "no",
-      "website": "http://www.metzgerei-duenkel.de",
+      "website": "https://metzgerei-duenkel.de/",
       "wheelchair": "yes"
     }
   },
@@ -8560,7 +8569,7 @@
       "opening_hours": "Tu,Th 08:00-12:00,14:00-18:00; We 08:00-12:00; Fr 07:00-18:00; Sa 07:00-12:00",
       "operator": "Piehler M. u. H. GdbR",
       "shop": "butcher",
-      "website": "http://piehlerhof.de/"
+      "website": "https://www.piehlerhof.de/"
     }
   },
   {
@@ -10467,7 +10476,7 @@
       "opening_hours": "Mo 07:00-13:00; Tu-Fr 07:00-18:00; Sa 07:00-12:30",
       "phone": "+49 911 732455",
       "shop": "butcher",
-      "website": "http://www.metzgerei-popp.de/index2.html",
+      "website": "https://www.metzgerei-popp.de/index2.html",
       "wheelchair": "no"
     }
   },
@@ -10875,7 +10884,7 @@
       "addr:street": "Marktplatz",
       "name": "Metzgerei und Partyservice Asen",
       "shop": "butcher",
-      "website": "http://www.metzgerei-asen.de"
+      "website": "https://www.metzgerei-asen.de/"
     }
   },
   {
@@ -12705,7 +12714,7 @@
       "opening_hours": "Mo 08:00-18:00; Tu 08:00-13:00; We-Th 08:00-18:00; Fr 07:00-17:00; Sa 07:00-11:00; PH off",
       "operator": "Brodinger Josef",
       "shop": "butcher",
-      "website": "http://www.metzgerei-brodinger.de/"
+      "website": "https://www.metzgerei-brodinger.de/"
     }
   },
   {
@@ -12834,9 +12843,13 @@
     "lat": 49.7111289,
     "lon": 11.1729843,
     "tags": {
+      "addr:housenumber": "14",
+      "addr:street": "Dorfstraße",
       "name": "Metzgerei Spindler",
+      "phone": "+49 9199 405",
       "shop": "butcher",
       "toilets:wheelchair": "no",
+      "website": "https://metzgerei-spindler.de/",
       "wheelchair": "no"
     }
   },
@@ -12961,7 +12974,7 @@
       "name": "Metzgerei Maucher",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-13:00",
       "shop": "butcher",
-      "website": "http://www.metzgerei-maucher.de/",
+      "website": "https://www.metzgerei-maucher.de/",
       "wheelchair": "yes"
     }
   },
@@ -13258,7 +13271,7 @@
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00; PH off",
       "phone": "+49 9407 957080",
       "shop": "butcher",
-      "website": "http://www.metzgerei-dirigl.com",
+      "website": "https://www.metzgerei-dirigl.com/",
       "wheelchair": "yes"
     }
   },
@@ -13396,7 +13409,7 @@
       "contact:phone": "+49 9166 258",
       "name": "Landmetzgerei Moosmeier",
       "shop": "butcher",
-      "website": "http://www.metzgerei-moosmeier.de/"
+      "website": "https://www.metzgerei-moosmeier.de/"
     }
   },
   {
@@ -14169,7 +14182,7 @@
       "addr:housenumber": "7",
       "addr:street": "Friedrich-Ebert-Straße",
       "name": "Zur blauen Glocke",
-      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-12:30",
+      "opening_hours": "Tu-Th 07:30-14:00, 16:00-18:00; Fr 07:30-18:00, Sa 07:00-12:30; PH off",
       "shop": "butcher"
     }
   },
@@ -14519,7 +14532,7 @@
       "phone": "+49 9421 33111",
       "ref": "B16",
       "shop": "butcher",
-      "website": "http://www.naber-straubing.de/"
+      "website": "https://www.naber-straubing.de/"
     }
   },
   {
@@ -14734,7 +14747,7 @@
     "lat": 48.4491821,
     "lon": 12.1065783,
     "tags": {
-      "check_date": "2023-04-20",
+      "check_date": "2023-11-04",
       "name": "Stadler",
       "shop": "butcher"
     }
@@ -15093,7 +15106,7 @@
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
       "name": "Vinzenzmurr",
-      "opening_hours": "Mo-Fr 08:30-18:00; Sa 07:30-14:00",
+      "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-13:00",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -18241,7 +18254,7 @@
       "opening_hours": "Mo-Th 07:00-12:30, 14:00-18:00; Fr 07:00-18:00; Sa 07:00-12:00",
       "phone": "+49 9482 2152",
       "shop": "butcher",
-      "website": "http://www.metzgerei-zankl.de/"
+      "website": "https://metzgerei-zankl.de/"
     }
   },
   {
@@ -18298,7 +18311,7 @@
       "name": "Metzgerei & Imbiss Markus Murr",
       "shop": "butcher",
       "short_name": "Murr",
-      "website": "http://www.metzgerei-murr.de"
+      "website": "https://www.metzgerei-murr.de/"
     }
   },
   {
@@ -18646,7 +18659,7 @@
       "addr:housenumber": "38",
       "addr:street": "Poststraße",
       "name": "Magg",
-      "opening_hours": "Mo-Th 07:30-15:00; Fr 07:00-18:00; Sa 07:00-12:30",
+      "opening_hours": "Tu-Th 07:30-16:00; Su,Mo off; Fr 07:00-18:00; Sa 07:00-12:30",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -19486,7 +19499,7 @@
       "name": "Metzgerei Sellerer Schuster",
       "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-12:30",
       "shop": "butcher",
-      "website": "http://www.ideenmetzger.de"
+      "website": "https://www.ideenmetzger.de/"
     }
   },
   {
@@ -20455,6 +20468,7 @@
       "addr:postcode": "91126",
       "addr:street": "Rother Straße",
       "name": "Metzgerei Krug",
+      "opening_hours": "Mo-Sa 06:00-20:00",
       "phone": "+49 9122 8872740",
       "shop": "butcher",
       "website": "https://metzgerei-ansbach-gunzenhausen.de/metzgerei-rednitzhembach/",
@@ -23140,7 +23154,7 @@
       "phone": "+49 855 5619",
       "shop": "butcher",
       "tourism": "hotel",
-      "website": "http://www.bayerwald-ilztalwirt.de"
+      "website": "https://www.bayerwald-ilztalwirt.de/"
     }
   },
   {
@@ -23973,7 +23987,7 @@
       "phone": "+49-9922-802540",
       "shop": "butcher",
       "source:opening_hours": "website",
-      "website": "http://www.metzgerei-schreder.de"
+      "website": "https://www.metzgerei-schreder.de/"
     }
   },
   {
@@ -24324,7 +24338,7 @@
       "name": "Metzgerei Mader",
       "phone": "+49 8223 2348",
       "shop": "butcher",
-      "website": "http://www.metzgerei-mader.de/"
+      "website": "https://www.metzgerei-mader.de/"
     }
   },
   {
@@ -24608,7 +24622,7 @@
       "opening_hours": "Mo,Tu,Th,Fr 07:30-13:00,14:30-18:00; We,Sa 07:30-12:00",
       "phone": "+49 8223 1227",
       "shop": "butcher",
-      "website": "http://www.metzgerei-mader.de/"
+      "website": "https://www.metzgerei-mader.de/"
     }
   },
   {
@@ -25434,7 +25448,7 @@
     "tags": {
       "name": "Orschler",
       "shop": "butcher",
-      "website": "http://www.metzgerei-fritz-orschler.de/"
+      "website": "https://www.metzgerei-fritz-orschler.de/"
     }
   },
   {
@@ -25516,7 +25530,7 @@
       "name": "Metzgerei Dorsch",
       "phone": "+49 9721 299394",
       "shop": "butcher",
-      "website": "http://www.metzgerei-dorsch.de/"
+      "website": "https://www.metzgerei-dorsch.de/"
     }
   },
   {
@@ -25558,7 +25572,7 @@
       "phone": "+49 9227 7061",
       "shop": "butcher",
       "tourism": "hotel",
-      "website": "http://marktschorgast.de/index.php?id=299"
+      "website": "https://marktschorgast.de/index.php?id=299"
     }
   },
   {
@@ -26223,7 +26237,7 @@
       "name": "Metzgerei Gassner",
       "opening_hours": "Mo-Sa 07:00-20:00; PH off",
       "shop": "butcher",
-      "website": "www.metzgereigassner.de"
+      "website": "https://www.metzgereigassner.de/"
     }
   },
   {
@@ -26235,7 +26249,7 @@
       "name": "Metzgerei Gassner",
       "opening_hours": "Mo-Fr 07:30-13:00; Sa 07:30-12:00; PH off",
       "shop": "butcher",
-      "website": "www.metzgereigassner.de"
+      "website": "https://www.metzgereigassner.de/"
     }
   },
   {
@@ -26638,7 +26652,7 @@
       "cuisine": "kebab",
       "indoor_seating": "yes",
       "name": "Döner Bank",
-      "opening_hours": "Mo-Th 10:30-22:00; Fr,Sa 10:30-22:00,00:00-05:00",
+      "opening_hours": "Mo-Th 11:00-22:00; Fr,Sa 11:00-05:00,00:00-05:00",
       "outdoor_seating": "no",
       "shop": "butcher",
       "takeaway": "yes",
@@ -27116,7 +27130,7 @@
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-12:00",
       "phone": "+49 8671 28 02",
       "shop": "butcher",
-      "website": "http://www.metzgerei-magg.de"
+      "website": "https://www.metzgerei-magg.de/"
     }
   },
   {
@@ -27206,7 +27220,7 @@
       "phone": "+49 9633 91357",
       "shop": "butcher",
       "toilets:wheelchair": "no",
-      "website": "http://www.partyservice-haertl.de",
+      "website": "https://www.partyservice-haertl.de/",
       "wheelchair": "yes"
     }
   },
@@ -27664,7 +27678,7 @@
       "phone": "+49 8571 2561",
       "shop": "butcher",
       "start_date": "2017-06-01",
-      "website": "http://www.metzgerei-feyrer.de",
+      "website": "https://www.metzgerei-feyrer.de/",
       "wheelchair": "yes"
     }
   },
@@ -27903,8 +27917,8 @@
   {
     "type": "node",
     "id": 5635623675,
-    "lat": 48.0619452,
-    "lon": 12.2328223,
+    "lat": 48.0619523,
+    "lon": 12.2328542,
     "tags": {
       "addr:city": "Wasserburg am Inn",
       "addr:housenumber": "20",
@@ -29377,7 +29391,7 @@
       "contact:phone": "+49 9104 861 815",
       "name": "Hofmetzgerei Vogel",
       "shop": "butcher",
-      "website": "http://www.hofmetzgerei-vogel.de"
+      "website": "https://www.hofmetzgerei-vogel.de/"
     }
   },
   {
@@ -30866,21 +30880,21 @@
       "opening_hours": "Mo-Tu 07:30-12:30,14:00-18:00; We 07:30-12:30; Th 07:30-12:30,14:00-18:00; Fr 07:00-18:30; Sa 07:00-13:00",
       "phone": "+49 6024 1667",
       "shop": "butcher",
-      "website": "http://www.metzgereifreund.com/"
+      "website": "https://www.metzgereifreund.com/"
     }
   },
   {
     "type": "node",
     "id": 7289316464,
-    "lat": 49.0300827,
-    "lon": 10.9722863,
+    "lat": 49.0300698,
+    "lon": 10.9722801,
     "tags": {
       "addr:city": "Weißenburg i. Bay.",
       "addr:housenumber": "2",
       "addr:postcode": "91781",
       "addr:street": "Judengasse",
       "name": "Metzgerei Wöhrlein",
-      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-12:00",
+      "opening_hours": "Tu-Fr 07:30-18:00; Sa 07:30-12:00; PH off",
       "operator": "Friedrich Wörlein GmbH & Co. KG",
       "phone": "+499141 1266",
       "shop": "butcher",
@@ -31407,7 +31421,7 @@
       "opening_hours": "Tu-Th 10:30-13:00; Fr 10:30-14:00; PH off",
       "phone": "+49 9407 94910",
       "shop": "butcher",
-      "website": "http://metzgerei-stierstorfer.de/"
+      "website": "https://metzgerei-stierstorfer.de/"
     }
   },
   {
@@ -31632,7 +31646,7 @@
       "phone": "+49 171 778 04 02",
       "shop": "butcher",
       "vending_machine:sales": "yes",
-      "website": "http://www.metzgereibedarf.online"
+      "website": "https://www.metzgereibedarf.online/"
     }
   },
   {
@@ -32361,7 +32375,7 @@
       "opening_hours": "Mo-Fr 07:30-13:00, Mo,Th,Fr 14:30-18:00, Sa 07:00-12:30; PH off",
       "phone": "+49 6021 421322",
       "shop": "butcher",
-      "website": "http://www.metzgerei-gumbel.de"
+      "website": "https://www.metzgerei-gumbel.de/"
     }
   },
   {
@@ -32692,7 +32706,7 @@
       "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:00-12:30",
       "phone": "+49838180780810",
       "shop": "butcher",
-      "website": "http://www.metzgerei-giray.de/"
+      "website": "https://www.metzgerei-giray.de/"
     }
   },
   {
@@ -35302,9 +35316,10 @@
   {
     "type": "node",
     "id": 10867410705,
-    "lat": 49.1485952,
-    "lon": 11.2182586,
+    "lat": 49.1487031,
+    "lon": 11.2183196,
     "tags": {
+      "description": "Hofladen, Abholung von frisch Geschlachtetem",
       "name": "Paul Hauselt",
       "opening_hours": "Sa 09:30-12:00",
       "phone": "+4991741308",
@@ -35585,7 +35600,7 @@
       "addr:housenumber": "4a",
       "addr:postcode": "85354",
       "addr:street": "General-von-Nagel-Straße",
-      "check_date": "2023-07-01",
+      "check_date": "2023-11-09",
       "email": "info@beefroom61.de",
       "name": "Kathi's Beefshop",
       "opening_hours": "Fr 11:00-18:00; Sa 09:00-14:00",
@@ -35967,7 +35982,7 @@
       "opening_hours": "Mo-We 06:00-15:00, Th, Sa 06:00-12:30, Fr 06:00-18:00",
       "phone": "+49 9966 330",
       "shop": "butcher",
-      "website": "http://metzgerei-heindl-wiesenfelden.de/"
+      "website": "https://www.metzgerei-heindl-wiesenfelden.de/"
     }
   },
   {
@@ -35981,7 +35996,8 @@
       "addr:postcode": "93426",
       "addr:street": "Schellererstraße",
       "name": "REWE",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
@@ -35995,7 +36011,8 @@
       "addr:postcode": "93426",
       "addr:street": "Bahnhofstraße",
       "operator": "Netto Marken-Discount",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
@@ -36103,6 +36120,20 @@
       "opening_hours": "Mo-Sa 09:00-19:00",
       "phone": "+49 89 6008 7579",
       "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11329429516,
+    "lat": 49.4493476,
+    "lon": 10.4680825,
+    "tags": {
+      "addr:housenumber": "11",
+      "addr:street": "Hauptstraße",
+      "name": "Metzgerei Weinländer",
+      "phone": "+49 9844 978887",
+      "shop": "butcher",
+      "website": "https://www.weinlaender.de/"
     }
   },
   {
@@ -39337,7 +39368,7 @@
       "operator": "Schönacher Frischgeflügel GmbH & CO. KG",
       "phone": "+49 841 71431",
       "shop": "butcher",
-      "website": "http://gefluegel-ingolstadt.de/"
+      "website": "https://gefluegel-ingolstadt.de/"
     }
   },
   {
@@ -40127,7 +40158,7 @@
       "opening_hours": "Mo-Fr 08:00-18:00; We 08:00-13:00; Sa 08:00-12:30",
       "phone": "+49 8051 9656990",
       "shop": "butcher",
-      "website": "http://www.alter-wirt-bernau.de/metzgerei-stolz-bernau/",
+      "website": "https://www.alter-wirt-bernau.de/metzgerei-stolz-bernau/",
       "wheelchair": "no"
     }
   },
@@ -40516,7 +40547,7 @@
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
       "operator": "Metzgerei Bauer GmbH",
       "shop": "butcher",
-      "website": "http://metzgerei-bauer.de"
+      "website": "https://metzgerei-bauer.de/"
     }
   },
   {
@@ -41202,7 +41233,7 @@
       "opening_hours": "Mo,Tu 07:00-15:00; We-Fr 07:00-18:00; Sa 07:00-13:30",
       "operator": "Markt-Metzger AK GmbH",
       "shop": "butcher",
-      "website": "http://www.klobeck-metzgerei.de/"
+      "website": "https://www.klobeck-metzgerei.de/"
     }
   },
   {
@@ -41873,23 +41904,6 @@
       "opening_hours": "Mo, Su 07:30-13:00; Tu-Fr 07:30-18:00",
       "shop": "butcher",
       "wheelchair": "no"
-    }
-  },
-  {
-    "type": "way",
-    "id": 287925260,
-    "nodes": [
-      2914825227,
-      2914825247,
-      2914825243,
-      2914825225,
-      2914825227
-    ],
-    "tags": {
-      "addr:housenumber": "2",
-      "addr:street": "Judengasse",
-      "building": "yes",
-      "shop": "butcher"
     }
   },
   {
@@ -42901,6 +42915,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date:opening_hours": "2023-11-07",
       "indoor": "room",
       "layer": "-1",
       "level": "-1",
@@ -44752,7 +44767,7 @@
       "name": "Metzgerei Grillmeier",
       "phone": "+49 9633 2541",
       "shop": "butcher",
-      "website": "http://www.metzgerei-grillmeier.de",
+      "website": "https://www.metzgerei-grillmeier.de/",
       "wheelchair": "yes"
     }
   },
@@ -51927,30 +51942,6 @@
     "id": 2932290302,
     "lat": 48.9224779,
     "lon": 11.0335793
-  },
-  {
-    "type": "node",
-    "id": 2914825225,
-    "lat": 49.029991,
-    "lon": 10.9723867
-  },
-  {
-    "type": "node",
-    "id": 2914825227,
-    "lat": 49.0300057,
-    "lon": 10.9722392
-  },
-  {
-    "type": "node",
-    "id": 2914825243,
-    "lat": 49.0300955,
-    "lon": 10.9724385
-  },
-  {
-    "type": "node",
-    "id": 2914825247,
-    "lat": 49.0301095,
-    "lon": 10.9722675
   },
   {
     "type": "node",
