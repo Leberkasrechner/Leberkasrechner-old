@@ -2303,16 +2303,6 @@
   },
   {
     "type": "node",
-    "id": 324325595,
-    "lat": 49.9633493,
-    "lon": 9.60085,
-    "tags": {
-      "name": "Metzgerei Christ",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 324760137,
     "lat": 49.779815,
     "lon": 11.1866171,
@@ -9312,23 +9302,6 @@
   },
   {
     "type": "node",
-    "id": 1042872329,
-    "lat": 48.393428,
-    "lon": 10.826929,
-    "tags": {
-      "addr:city": "Neusäß",
-      "addr:housenumber": "18",
-      "addr:postcode": "86356",
-      "addr:street": "Benzstraße",
-      "name": "Metzgerei Klement",
-      "phone": "+49 821 4530200",
-      "shop": "butcher",
-      "website": "https://www.metzgerei.org/neusäß/metzgerei-klement-6284244.html",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 1046487951,
     "lat": 48.2992688,
     "lon": 13.1422773,
@@ -10346,8 +10319,8 @@
   {
     "type": "node",
     "id": 1222241335,
-    "lat": 48.3524587,
-    "lon": 13.3164408,
+    "lat": 48.3524635,
+    "lon": 13.3164177,
     "tags": {
       "name": "Schönbauer",
       "shop": "butcher"
@@ -10439,8 +10412,8 @@
       "addr:housenumber": "10",
       "addr:postcode": "87700",
       "addr:street": "Zangmeisterstraße",
+      "check_date": "2023-11-17",
       "contact:phone": "+49 8331 944430",
-      "lastcheck": "2017-08-14",
       "name": "Metzgerei Greiff",
       "opening_hours": "Mo-Th 08:00-18:00; Fr 07:30-18:00; Sa 07:00-13:00",
       "shop": "butcher"
@@ -10490,8 +10463,6 @@
     "lat": 50.0578027,
     "lon": 11.6280877,
     "tags": {
-      "addr:housenumber": "9",
-      "addr:street": "Himmelkroner Weg",
       "name": "Hausmetzgerei-Hofladen Bräutigam",
       "shop": "butcher"
     }
@@ -11686,7 +11657,7 @@
       "addr:housenumber": "6",
       "addr:postcode": "85408",
       "addr:street": "Hauptstraße",
-      "check_date": "2023-10-08",
+      "check_date": "2023-11-18",
       "name": "Metzgerei Bauer",
       "phone": "+49 8766 261",
       "shop": "butcher",
@@ -12473,6 +12444,7 @@
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-15:00",
       "shop": "butcher",
+      "url": "https://vinzenzmurr.de/",
       "wheelchair": "limited"
     }
   },
@@ -13151,8 +13123,8 @@
   {
     "type": "node",
     "id": 1569835878,
-    "lat": 49.8564688,
-    "lon": 10.6898866,
+    "lat": 49.8564694,
+    "lon": 10.6899015,
     "tags": {
       "name": "Metzgerei Bernhilde Scharf",
       "shop": "butcher"
@@ -14312,7 +14284,7 @@
       "addr:street": "Rennweg",
       "check_date": "2023-01-19",
       "name": "Metzgerei Mayer",
-      "opening_hours": "Mo-Fr 06:30-18:00; Sa 07:30-12:00",
+      "opening_hours": "Mo-Fr 06:30-18:00; Sa 07:30-12:00; PH off",
       "phone": "+49-871-63857",
       "shop": "butcher",
       "wheelchair": "no"
@@ -14630,17 +14602,6 @@
   },
   {
     "type": "node",
-    "id": 1748931757,
-    "lat": 49.4613725,
-    "lon": 10.9899612,
-    "tags": {
-      "name": "Fleischerei Rehm",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
     "id": 1749515110,
     "lat": 47.4887894,
     "lon": 11.0735433,
@@ -14666,8 +14627,8 @@
   {
     "type": "node",
     "id": 1755243421,
-    "lat": 48.372089,
-    "lon": 10.8621159,
+    "lat": 48.3721219,
+    "lon": 10.8621231,
     "tags": {
       "addr:city": "Augsburg",
       "addr:country": "DE",
@@ -15419,22 +15380,6 @@
       "name": "FleiWa",
       "shop": "butcher",
       "toilets:wheelchair": "no",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
-    "id": 1846833107,
-    "lat": 48.0720225,
-    "lon": 11.887864,
-    "tags": {
-      "addr:housenumber": "5",
-      "addr:postcode": "85614",
-      "addr:street": "Münchner Straße",
-      "name": "Metzgerei Heimann",
-      "opening_hours": "Mo,We 07:00-14:00; Th,Fr 07:00-18:00; Sa 07:00-12:00",
-      "shop": "butcher",
-      "website": "https://www.metzgerei-heimann.de/",
       "wheelchair": "yes"
     }
   },
@@ -19536,6 +19481,10 @@
     "lat": 48.2610722,
     "lon": 11.4322612,
     "tags": {
+      "addr:city": "Dachau",
+      "addr:housenumber": "24",
+      "addr:postcode": "85221",
+      "addr:street": "Augsburger Straße",
       "name": "Helfer",
       "shop": "butcher"
     }
@@ -22659,6 +22608,7 @@
     "lat": 47.9882439,
     "lon": 10.1738372,
     "tags": {
+      "check_date": "2023-11-17",
       "name": "Kleiber",
       "shop": "butcher"
     }
@@ -23700,7 +23650,9 @@
     "lat": 47.8706983,
     "lon": 11.9998191,
     "tags": {
-      "name": "vinzenzmurr",
+      "brand": "Vinzenzmurr",
+      "brand:wikidata": "Q2527361",
+      "name": "Vinzenzmurr",
       "opening_hours": "Mo-Sa 07:00-20:00;PH off",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -24730,39 +24682,6 @@
   },
   {
     "type": "node",
-    "id": 4037229193,
-    "lat": 50.239981,
-    "lon": 11.6219053,
-    "tags": {
-      "addr:city": "Helmbrechts",
-      "addr:country": "DE",
-      "addr:housenumber": "7",
-      "addr:postcode": "95233",
-      "addr:street": "Kirchplatz",
-      "addr:suburb": "Enchenreuth",
-      "name": "Metzgerei Feulner",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
-    "id": 4037229194,
-    "lat": 50.2395396,
-    "lon": 11.6210833,
-    "tags": {
-      "addr:city": "Helmbrechts",
-      "addr:country": "DE",
-      "addr:housenumber": "1",
-      "addr:postcode": "95233",
-      "addr:street": "Am Pfarrgrund",
-      "addr:suburb": "Enchenreuth",
-      "name": "Metzgerei Schultheiß",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 4056535789,
     "lat": 48.1130446,
     "lon": 11.4513287,
@@ -25428,7 +25347,7 @@
     "lat": 49.5108694,
     "lon": 11.2803485,
     "tags": {
-      "addr:city": "Lauf a.d.Pegnitz",
+      "addr:city": "Lauf a.d. Pegnitz",
       "addr:country": "DE",
       "addr:housenumber": "9",
       "addr:postcode": "91207",
@@ -27050,6 +26969,7 @@
     "tags": {
       "addr:housenumber": "36",
       "addr:street": "Schlachthofstraße",
+      "check_date": "2023-11-22",
       "name": "Peter Micheler",
       "opening_hours": "Mo-Fr 06:00-18:00, 09:00-18:00; Sa 07:00-13:30",
       "shop": "butcher",
@@ -28765,22 +28685,6 @@
       "addr:postcode": "95233",
       "addr:street": "Friedrich-Ebert-Straße",
       "name": "Alwin Weber",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 6139104434,
-    "lat": 50.2394665,
-    "lon": 11.6205325,
-    "tags": {
-      "addr:city": "Helmbrechts",
-      "addr:country": "DE",
-      "addr:housenumber": "4",
-      "addr:postcode": "95233",
-      "addr:street": "Am Pfarrgrund",
-      "addr:suburb": "Enchenreuth",
-      "name": "Konrad Reif",
       "shop": "butcher"
     }
   },
@@ -31087,6 +30991,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-11-22",
       "name": "Vinzenzmurr",
       "shop": "butcher"
     }
@@ -33153,7 +33058,7 @@
       "addr:street": "Oberer Stadtplatz",
       "email": "info@metzgerei-steinleitner.de",
       "name": "Metzgerei Steinleitner",
-      "opening_hours": "Mo 08:00-13:00; Tu-Fr 08:00-18:00; Sa 08:00-12:00",
+      "opening_hours": "We-Fr 08:00-18:00; Sa 08:00-12:00; Tu 08:00-13:00",
       "phone": "+49991342830",
       "shop": "butcher",
       "website": "https://www.metzgerei-steinleitner.de/gesch%C3%A4fte/",
@@ -33698,7 +33603,7 @@
     "tags": {
       "description": "zweimal wöchentlich geöffneter Verkaufswagen",
       "name": "Metzgerei Atzmannsdorfer",
-      "opening_hours": "Tu,Fr 09:00-17:30",
+      "opening_hours": "Tu,Fr 09:00-14:00,14:30-17:30",
       "shop": "butcher"
     }
   },
@@ -34923,17 +34828,6 @@
       "name": "Schämanns",
       "opening_hours": "Mo 07:30-14:00; Tu-Fr 07:30-18:00; Sa 07:30-12:00",
       "operator": "Ludwig Schämann",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 10090279772,
-    "lat": 48.1238788,
-    "lon": 11.5414573,
-    "tags": {
-      "level": "0",
-      "name": "Sendlinger Metzgerei",
       "shop": "butcher"
     }
   },
@@ -36181,6 +36075,22 @@
       "phone": "+4993328666",
       "shop": "butcher",
       "website": "https://metzgerei-uffenheim-marktbreit-sickershausen.de/metzgerei-gnodstadt/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11368218657,
+    "lat": 49.4813924,
+    "lon": 11.062936,
+    "tags": {
+      "addr:housenumber": "15",
+      "addr:postcode": "90425",
+      "addr:street": "Wilhelmshavener Straße",
+      "name": "Wolf",
+      "opening_hours": "Mo-Sa 07:00-20:00",
+      "shop": "butcher",
+      "website": "https://www.wolf-filialen.de/nuernberg_wilhelmshavener-strasse",
+      "wheelchair": "yes"
     }
   },
   {
@@ -38330,6 +38240,29 @@
   },
   {
     "type": "way",
+    "id": 127928575,
+    "nodes": [
+      1414739939,
+      1414739949,
+      1414739950,
+      1414739942,
+      11365840769,
+      1414739939
+    ],
+    "tags": {
+      "addr:city": "Helmbrechts",
+      "addr:country": "DE",
+      "addr:housenumber": "1",
+      "addr:postcode": "95233",
+      "addr:street": "Am Pfarrgrund",
+      "addr:suburb": "Enchenreuth",
+      "building": "house",
+      "name": "Metzgerei Schultheiß",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "way",
     "id": 128851616,
     "nodes": [
       1422776118,
@@ -38519,7 +38452,7 @@
       1463655173
     ],
     "tags": {
-      "building": "yes",
+      "building": "construction",
       "name": "Metzgerei Limmer",
       "shop": "butcher",
       "source": "bing"
@@ -44700,6 +44633,31 @@
   },
   {
     "type": "way",
+    "id": 655209863,
+    "nodes": [
+      6139104431,
+      6139104430,
+      6139104429,
+      6139104428,
+      6139104427,
+      6139104426,
+      6139104431
+    ],
+    "tags": {
+      "addr:city": "Helmbrechts",
+      "addr:country": "DE",
+      "addr:housenumber": "7",
+      "addr:postcode": "95233",
+      "addr:street": "Kirchplatz",
+      "addr:suburb": "Enchenreuth",
+      "building": "house",
+      "name": "Metzgerei Feulner",
+      "shop": "butcher",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "way",
     "id": 660454531,
     "nodes": [
       6183585505,
@@ -45315,6 +45273,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-11-22",
       "indoor": "area",
       "level": "0",
       "name": "Vinzenzmurr",
@@ -60287,6 +60246,72 @@
     "id": 4305952081,
     "lat": 50.121885,
     "lon": 11.4396686
+  },
+  {
+    "type": "node",
+    "id": 1414739939,
+    "lat": 50.2394707,
+    "lon": 11.6209888
+  },
+  {
+    "type": "node",
+    "id": 1414739942,
+    "lat": 50.2395095,
+    "lon": 11.6211486
+  },
+  {
+    "type": "node",
+    "id": 1414739949,
+    "lat": 50.2395353,
+    "lon": 11.6209505
+  },
+  {
+    "type": "node",
+    "id": 1414739950,
+    "lat": 50.2395741,
+    "lon": 11.6211103
+  },
+  {
+    "type": "node",
+    "id": 6139104426,
+    "lat": 50.2399355,
+    "lon": 11.6219497
+  },
+  {
+    "type": "node",
+    "id": 6139104427,
+    "lat": 50.2400403,
+    "lon": 11.6219041
+  },
+  {
+    "type": "node",
+    "id": 6139104428,
+    "lat": 50.2400119,
+    "lon": 11.6217453
+  },
+  {
+    "type": "node",
+    "id": 6139104429,
+    "lat": 50.239943,
+    "lon": 11.6217752
+  },
+  {
+    "type": "node",
+    "id": 6139104430,
+    "lat": 50.2399539,
+    "lon": 11.6218369
+  },
+  {
+    "type": "node",
+    "id": 6139104431,
+    "lat": 50.2399182,
+    "lon": 11.6218524
+  },
+  {
+    "type": "node",
+    "id": 11365840769,
+    "lat": 50.2395052,
+    "lon": 11.6211309
   },
   {
     "type": "node",
