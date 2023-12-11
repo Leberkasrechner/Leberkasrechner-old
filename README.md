@@ -1,6 +1,9 @@
+## New Repository
+**⚠️Important Note: This is the old version of the Leberkasrechner. To see the current one, go ahead to our [new repository](https://github.com/Leberkasrechner/Leberkasrechner).**
+
 # Leberkasrechner
 
-Dieser Rechner zeigt ihnen an, ob sie noch genug Leberkas haben. Der wird nämlich schneller knapp als gedacht! Dieser Rechner hilft auch, wenn's mal brenzlig wird. Sie verfügen über KEINEN Leberkas mehr?
+Dieser Rechner zeigt ihnen a, ob sie noch genug Leberkas haben. Der wird nämlich schneller knapp als gedacht! Dieser Rechner hilft auch, wenn's mal brenzlig wird. Sie verfügen über KEINEN Leberkas mehr?
 
 1. Schämen Sie sich
 2. gehen Sie auf [die Webseite des Leberkasrechners](https://leberkasrechner.de). Dort wird ihnen in dieser akuten Notsituation geholfen.
