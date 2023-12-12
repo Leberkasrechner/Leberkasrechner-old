@@ -111,7 +111,7 @@ function formatOpeningHours(input) {
 }
 
 
-fetch('/js/butchers.json')
+fetch('/Leberkasrechner-old/js/butchers.json')
     .then(response => response.json())
     .then(jsonData => {
         butchers = jsonData;
